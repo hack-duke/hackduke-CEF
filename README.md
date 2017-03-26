@@ -2,9 +2,13 @@
 
 ## Dependencies
 
+### Python Requests
+
 Python Requests: $ pip install requests
 
 **For more information**: http://docs.python-requests.org/en/master/user/install/#install
+
+### Beautiful Soup 4
 
 Beautiful Soup: $ pip install beautifulsoup4
 
