@@ -4,13 +4,13 @@
 
 ### Python Requests
 
-Python Requests: $ pip install requests
+Python Requests: $ pip3 install requests
 
 **For more information**: http://docs.python-requests.org/en/master/user/install/#install
 
 ### Beautiful Soup 4
 
-Beautiful Soup: $ pip install beautifulsoup4
+Beautiful Soup: $ pip3 install BeautifulSoup4
 
 **For more information**: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 
