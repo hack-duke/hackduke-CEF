@@ -6,11 +6,14 @@ from zillow.items import ZillowItem
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
 
+
     def start_requests(self):
-        urls = [
-            "https://www.zillow.com/homes/for_rent/Warrenton-VA-20186/house,condo,apartment_duplex,mobile,townhouse_type/66272_rid/38.774161,-77.630424,38.63645,-78.069878_rect/10_zm/",
-            "https://www.zillow.com/homes/for_rent/27708_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=rent"
-        ]
+        zipcodes = ["27708", "27517", "27702", "27705", "27708", "27711", "27715", "27560", "27703", "27706", "27709", "27712", "27717", "27701", "27704", "27707", "27710", "27713"]    
+        urls = [ ]
+
+        for code in zipcodes:
+            urls.append("https://www.zillow.com/homes/for_rent/" + code + "_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=rent")
+
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
