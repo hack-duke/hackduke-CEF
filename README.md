@@ -24,6 +24,10 @@ cd into the top zillow directory
 
 then say: **scrapy crawl zillow -o file_name.json**
 
+then json should then appear (if it didn't exist) in the zillow folder
+
+if the json did exist, it adds to it
+
 ## Useful links for first time scrapers
 
 https://elitedatascience.com/python-web-scraping-libraries
