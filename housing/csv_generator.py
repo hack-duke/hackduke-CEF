@@ -1,14 +1,14 @@
 import json
-
+import sys
 import csv
 
-json_data=open('test.json').read()
+json_data=open(sys.argv[1]).read()
 
 data = json.loads(json_data)
 
 # open a file for writing
 
-house_data = open('test.csv', 'w')
+house_data = open(sys.argv[2], 'w')
 
 # create the csv writer object
 
