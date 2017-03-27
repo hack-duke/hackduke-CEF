@@ -8,8 +8,8 @@
 import scrapy
 
 
-class ZillowItem(scrapy.Item):
-    # define the Fields for your item here like:
+class HousingItem(scrapy.Item):
+    # define the fields for your item here like:
     # name = scrapy.Field()
     classification = scrapy.Field()
     price = scrapy.Field()
