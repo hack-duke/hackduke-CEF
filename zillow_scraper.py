@@ -34,7 +34,7 @@ class ZillowScraper:
 	def getInfo(self):
 		info = dict()
 		info[self.getName()] = [self.getAddress(), self.getBedrooms(), self.getURL()]
-		print info
+		print(info)
 		return info
 
 def get_house_data(url):
