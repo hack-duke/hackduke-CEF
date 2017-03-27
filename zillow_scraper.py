@@ -38,8 +38,8 @@ class ZillowScraper:
 		return info
 
 def get_house_data(url):
-	r = requests.get(url, "html.parser")
-	return BeautifulSoup(r.content)
+	r = requests.get(url)
+	return BeautifulSoup(r.content, 'html.parser')
 
 if __name__ == "__main__":
 
