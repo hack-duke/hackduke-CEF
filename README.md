@@ -14,6 +14,16 @@ Beautiful Soup: $ pip3 install BeautifulSoup4
 
 **For more information**: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 
+### Scrapy
+
+Scrapy: $ pip3 install scrapy
+
+## To Run Scrapy
+
+cd into the top zillow directory
+
+then say: **scrapy crawl zillow -o file_name.json**
+
 ## Useful links for first time scrapers
 
 https://elitedatascience.com/python-web-scraping-libraries
