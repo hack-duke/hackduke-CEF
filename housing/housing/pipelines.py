@@ -6,6 +6,6 @@
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
 
-class ZillowPipeline(object):
+class HousingPipeline(object):
     def process_item(self, item, spider):
         return item

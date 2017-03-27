@@ -20,7 +20,7 @@ Scrapy: $ pip3 install scrapy
 
 ## To Run Scrapy
 
-cd into the top zillow directory
+cd into the top housing directory
 
 then say: **scrapy crawl zillow -o file_name.json**
 

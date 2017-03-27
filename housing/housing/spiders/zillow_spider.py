@@ -1,5 +1,5 @@
 import scrapy
-from zillow.items import ZillowItem
+from housing.items import HousingItem
 
 # https://www.youtube.com/watch?v=A4949-hT8TM
 
@@ -21,7 +21,7 @@ class ZillowSpider(scrapy.Spider):
         items = []
         for sel in response.xpath('//ul[@class="photo-cards"]/li'):
             try:
-                item = ZillowItem()
+                item = HousingItem()
                 print(type(item))
                 item['classification'] = sel.xpath('.//span[@class="zsg-photo-card-status"]/text()').extract()[0]
                 print(item['classification'])
