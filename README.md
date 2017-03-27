@@ -28,6 +28,13 @@ then json should then appear (if it didn't exist) in the zillow folder
 
 if the json did exist, it adds to it
 
+## Using the JSON to csv converter (csv_generator):
+
+call the following from terminal:
+
+**python3 csv_generator.py loc/json_file.json loc/csv_file_to_generate.csv**
+
+
 ## Useful links for first time scrapers
 
 https://elitedatascience.com/python-web-scraping-libraries
