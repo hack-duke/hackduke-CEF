@@ -34,3 +34,4 @@ https://elitedatascience.com/python-web-scraping-libraries
 
 https://www.youtube.com/watch?v=3xQTJi2tqgk
 
+Good scrapy tutorial if interested: https://www.youtube.com/watch?v=A4949-hT8TM
