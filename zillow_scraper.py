@@ -31,9 +31,6 @@ class ZillowScraper:
 	def getURL(self):
 		return {"url": self.url}
 
-	def getPhoneNumber(self):
-
-
 	def getInfo(self):
 		info = dict()
 		info[self.getName()] = [self.getAddress(), self.getBedrooms(), self.getURL()]
