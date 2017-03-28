@@ -29,7 +29,7 @@ class ZillowSpider(scrapy.Spider):
                 item['dateListed'] = datePt1 + datePt2
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
-                item['url'] = response.url
+                item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
                 items.append(item)
             except:
                 pass
