@@ -1,8 +1,6 @@
 import scrapy
 from housing.items import HousingItem
 
-# https://www.youtube.com/watch?v=A4949-hT8TM
-
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
 
@@ -29,10 +27,18 @@ class ZillowSpider(scrapy.Spider):
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
                 item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
-                yield item
+                if int(removeCharacters(item['price'], ["$", ",", "/mo"])) < 1500:
+                    yield item
             except:
                 pass
         next_page = sel.xpath('//li[@class="zsg-pagination-next"]/a/@href').extract_first()
         if next_page is not None:
             next_page = "https://zillow.com" + next_page
             yield scrapy.Request(next_page, self.parse)
+
+def removeCharacters(string, removalList):
+    newstring = string
+    for item in removalList:
+        newstring = newstring.replace(item, '')
+    return newstring
+

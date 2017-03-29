@@ -1,191 +1,133 @@
 classification,price,dateListed,address,specs,url
-House For Rent,"$2,400/mo",1 day ago,"1310 Kent St, Durham, NC","3 bds  2.5 ba  2,592 sqft",zillow.com/homedetails/1310-Kent-St-Durham-NC-27707/49972032_zpid/
-House For Rent,"$1,395/mo",1 day ago,"1024 Starlight Dr, Durham, NC","2 bds  1 ba  1,030 sqft",zillow.com/homedetails/1024-Starlight-Dr-Durham-NC-27707/49977412_zpid/
+House For Rent,"$1,395/mo",5 days ago,"418 Plank Bridge Way, Morrisville, NC","3 bds  2.5 ba  1,454 sqft",zillow.com/homedetails/418-Plank-Bridge-Way-Morrisville-NC-27560/79886299_zpid/
+House For Rent,"$1,450/mo",9 days ago,"562 Writers Way, Morrisville, NC","4 bds  3 ba  1,787 sqft",zillow.com/homedetails/562-Writers-Way-Morrisville-NC-27560/68320871_zpid/
+House For Rent,"$1,000/mo",2 days ago,"16 Quintin Pl, Durham, NC","2 bds  1.5 ba  1,088 sqft",zillow.com/homedetails/16-Quintin-Pl-Durham-NC-27705/50015851_zpid/
 Townhouse For Rent,$925/mo,2 days ago,"1477 Ephesus Church Rd, Chapel Hill, NC","2 bds  1.5 ba  1,080 sqft",zillow.com/homedetails/1477-Ephesus-Church-Rd-Chapel-Hill-NC-27517/2094840607_zpid/
+Condo For Rent,"$1,365/mo",2 days ago,"2 Carson Cir # B, Durham, NC","3 bds  2.5 ba  1,600 sqft",zillow.com/homedetails/2-Carson-Cir-B-Durham-NC-27705/2105838006_zpid/
+Condo For Rent,"$1,200/mo",7 days ago,"311 Swift Ave # 1ST, Durham, NC","2 bds  2 ba  1,100 sqft",zillow.com/homedetails/311-Swift-Ave-1ST-Durham-NC-27705/2094886739_zpid/
+Condo For Rent,$695/mo,7 days ago,"920 Hale St # A, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/920-Hale-St-A-Durham-NC-27705/2119253472_zpid/
+House For Rent,$950/mo,12 days ago,"1116-A 9th St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/1116-A-9th-St-Durham-NC-27705/2114942890_zpid/
+House For Rent,"$1,150/mo",13 days ago,"3701 Tremont Dr, Durham, NC","3 bds  1.5 ba  1,196 sqft",zillow.com/homedetails/3701-Tremont-Dr-Durham-NC-27705/49984352_zpid/
+Apartment For Rent,$715/mo,14 days ago,"2604 Englewood Ave # 3, Durham, NC",1 bd  1 ba  386 sqft,zillow.com/homedetails/2604-Englewood-Ave-3-Durham-NC-27705/2103692679_zpid/
+Condo For Rent,"$1,300/mo",15 days ago,"3701 Pickett Road Durham # NC, Durham, NC","3 bds  1.5 ba  1,700 sqft",zillow.com/homedetails/3701-Pickett-Road-Durham-NC-Durham-NC-27705/2095331406_zpid/
+Townhouse For Rent,$915/mo,20 days ago,"1020 Sedgefield Street A Left, Durham, NC",1 bd  1 ba  580 sqft,zillow.com/homedetails/1020-Sedgefield-Street-A-Left-Durham-NC-27705/2106000498_zpid/
 House For Rent,"$1,300/mo",2 days ago,"29 Hunters Way, Chapel Hill, NC","2 bds  2 ba  1,143 sqft",zillow.com/homedetails/29-Hunters-Way-Chapel-Hill-NC-27517/74939971_zpid/
 Condo For Rent,"$1,285/mo",5 days ago,"181 Summerwalk Cir, Chapel Hill, NC","2 bds  3 ba  1,250 sqft",zillow.com/homedetails/181-Summerwalk-Cir-Chapel-Hill-NC-27517/49996547_zpid/
 Townhouse For Rent,$775/mo,6 days ago,"100 Forsyth Dr # A, Chapel Hill, NC",2 bds  1 ba  850 sqft,zillow.com/homedetails/100-Forsyth-Dr-A-Chapel-Hill-NC-27517/2098321612_zpid/
 Apartment For Rent,"$1,150/mo",8 days ago,"101 Finley Forest Dr, Chapel Hill, NC","2 bds  3 ba  1,265 sqft",zillow.com/homedetails/101-Finley-Forest-Dr-Chapel-Hill-NC-27517/49996463_zpid/
 House For Rent,"$1,050/mo",11 days ago,"287 Summerwalk Cir, Chapel Hill, NC",2 bds  2 ba  975 sqft,zillow.com/homedetails/287-Summerwalk-Cir-Chapel-Hill-NC-27517/60073450_zpid/
 Townhouse For Rent,"$1,280/mo",12 days ago,"393 Summerwalk Cir, Chapel Hill, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/393-Summerwalk-Cir-Chapel-Hill-NC-27517/49996674_zpid/
-Apartment For Rent,"$1,500/mo",13 days ago,"69 Merritt Dr # A, Chapel Hill, NC",3 bds  2 ba  -- sqft,zillow.com/homedetails/69-Merritt-Dr-A-Chapel-Hill-NC-27517/2098649950_zpid/
 House For Rent,"$1,350/mo",19 days ago,"28 Forest Gln, Chapel Hill, NC",2 bds  2.5 ba  -- sqft,zillow.com/homedetails/28-Forest-Gln-Chapel-Hill-NC-27517/2095015142_zpid/
 Condo For Rent,"$1,300/mo",20 days ago,"245 Plaza Dr UNIT D, Chapel Hill, NC","3 bds  2.5 ba  1,565 sqft",zillow.com/homedetails/245-Plaza-Dr-UNIT-D-Chapel-Hill-NC-27517/2095028634_zpid/
-House For Rent,"$1,800/mo",24 days ago,"315 Charleston Ln, Chapel Hill, NC","2 bds  2.5 ba  1,748 sqft",zillow.com/homedetails/315-Charleston-Ln-Chapel-Hill-NC-27517/61825653_zpid/
-House For Rent,"$1,749/mo",1 day ago,"1012 Cotulla Dr, Morrisville, NC","3 bds  2.5 ba  1,917 sqft",zillow.com/homedetails/1012-Cotulla-Dr-Morrisville-NC-27560/125166003_zpid/
-House For Rent,"$2,895/mo",29 days ago,"301 Helmsdale Dr, Chapel Hill, NC","4 bds  3.5 ba  4,250 sqft",zillow.com/homedetails/301-Helmsdale-Dr-Chapel-Hill-NC-27517/49995476_zpid/
-House For Rent,"$1,400/mo",36 days ago,"223 Bluefield Rd, Chapel Hill, NC","2 bds  2.5 ba  1,381 sqft",zillow.com/homedetails/223-Bluefield-Rd-Chapel-Hill-NC-27517/60075002_zpid/
+House For Rent,"$1,400/mo",37 days ago,"223 Bluefield Rd, Chapel Hill, NC","2 bds  2.5 ba  1,381 sqft",zillow.com/homedetails/223-Bluefield-Rd-Chapel-Hill-NC-27517/60075002_zpid/
+House For Rent,"$1,300/mo",20 days ago,"22 Prestwick Pl, Durham, NC","3 bds  2 ba  1,450 sqft",zillow.com/homedetails/22-Prestwick-Pl-Durham-NC-27705/50015803_zpid/
+Townhouse For Rent,"$1,050/mo",21 days ago,"52 Stoneridge Rd, Durham, NC","2 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/52-Stoneridge-Rd-Durham-NC-27705/49993052_zpid/
 House For Rent,$950/mo,42 days ago,"404 Summerwalk Cir, Chapel Hill, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/404-Summerwalk-Cir-Chapel-Hill-NC-27517/49996606_zpid/
 House For Rent,$950/mo,42 days ago,"180 Summerwalk Cir, Chapel Hill, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/180-Summerwalk-Cir-Chapel-Hill-NC-27517/49996565_zpid/
 House For Rent,$950/mo,42 days ago,"360 Summerwalk Cir, Chapel Hill, NC",2 bds  2 ba  933 sqft,zillow.com/homedetails/360-Summerwalk-Cir-Chapel-Hill-NC-27517/49996592_zpid/
 Townhouse For Rent,"$1,150/mo",45 days ago,"109 Old Cooper Sq, Chapel Hill, NC","2 bds  2.5 ba  1,191 sqft",zillow.com/homedetails/109-Old-Cooper-Sq-Chapel-Hill-NC-27517/60073940_zpid/
 House For Rent,"$1,475/mo",50 days ago,"1304 Oak Tree Dr, Chapel Hill, NC","3 bds  2 ba  1,441 sqft",zillow.com/homedetails/1304-Oak-Tree-Dr-Chapel-Hill-NC-27517/60072667_zpid/
-House For Rent,"$3,500/mo",58 days ago,"7 Davis Love Dr, Chapel Hill, NC","4 bds  4 ba  3,900 sqft",zillow.com/homedetails/7-Davis-Love-Dr-Chapel-Hill-NC-27517/74952995_zpid/
-Townhouse For Rent,"$2,075/mo",63 days ago,"22 Abernathy Dr, Chapel Hill, NC","3 bds  2.5 ba  2,000 sqft",zillow.com/homedetails/22-Abernathy-Dr-Chapel-Hill-NC-27517/80196928_zpid/
-Apartment For Rent,"$1,850/mo",78 days ago,"1 Winter Dr, Chapel Hill, NC","3 bds  1.5 ba  1,600 sqft",zillow.com/homedetails/1-Winter-Dr-Chapel-Hill-NC-27517/2095758527_zpid/
-House For Rent,"$1,525/mo",2 days ago,"209 Station Dr, Morrisville, NC","3 bds  2.5 ba  1,964 sqft",zillow.com/homedetails/209-Station-Dr-Morrisville-NC-27560/109961840_zpid/
-House For Rent,"$1,699/mo",2 days ago,"2218 Kirkhaven Rd, Morrisville, NC","3 bds  2.5 ba  2,350 sqft",zillow.com/homedetails/2218-Kirkhaven-Rd-Morrisville-NC-27560/117901867_zpid/
-House For Rent,"$1,525/mo",4 days ago,"1609 Corwith Dr, Morrisville, NC","3 bds  2.5 ba  1,776 sqft",zillow.com/homedetails/1609-Corwith-Dr-Morrisville-NC-27560/89798054_zpid/
-House For Rent,"$1,395/mo",5 days ago,"418 Plank Bridge Way, Morrisville, NC","3 bds  2.5 ba  1,454 sqft",zillow.com/homedetails/418-Plank-Bridge-Way-Morrisville-NC-27560/79886299_zpid/
-House For Rent,"$1,995/mo",5 days ago,"11117 Jeremiah St, Morrisville, NC","4 bds  3.5 ba  2,230 sqft",zillow.com/homedetails/11117-Jeremiah-St-Morrisville-NC-27560/118201817_zpid/
-Apartment For Rent,"$1,900/mo",6 days ago,"3210 Grace Park Dr, Morrisville, NC","4 bds  4 ba  2,488 sqft",zillow.com/homedetails/3210-Grace-Park-Dr-Morrisville-NC-27560/2094875654_zpid/
-House For Rent,"$1,595/mo",6 days ago,"405 Manchester Park Ln, Morrisville, NC","3 bds  2.5 ba  1,889 sqft",zillow.com/homedetails/405-Manchester-Park-Ln-Morrisville-NC-27560/118509229_zpid/
-Townhouse For Rent,"$1,695/mo",6 days ago,"308 Long Millgate Rd, Morrisville, NC","3 bds  2.5 ba  2,031 sqft",zillow.com/homedetails/308-Long-Millgate-Rd-Morrisville-NC-27560/119341149_zpid/
-House For Rent,"$1,450/mo",9 days ago,"562 Writers Way, Morrisville, NC","4 bds  3 ba  1,787 sqft",zillow.com/homedetails/562-Writers-Way-Morrisville-NC-27560/68320871_zpid/
-House For Rent,"$1,895/mo",10 days ago,"112 Bigbee Trl, Morrisville, NC","4 bds  2.5 ba  2,500 sqft",zillow.com/homedetails/112-Bigbee-Trl-Morrisville-NC-27560/60394289_zpid/
-House For Rent,"$1,000/mo",2 days ago,"16 Quintin Pl, Durham, NC","2 bds  1.5 ba  1,088 sqft",zillow.com/homedetails/16-Quintin-Pl-Durham-NC-27705/50015851_zpid/
-House For Rent,"$1,700/mo",12 days ago,"118 Kudrow Ln, Morrisville, NC","3 bds  2 ba  1,650 sqft",zillow.com/homedetails/118-Kudrow-Ln-Morrisville-NC-27560/50107708_zpid/
-Condo For Rent,"$1,365/mo",2 days ago,"2 Carson Cir # B, Durham, NC","3 bds  2.5 ba  1,600 sqft",zillow.com/homedetails/2-Carson-Cir-B-Durham-NC-27705/2105838006_zpid/
-Condo For Rent,"$1,200/mo",6 days ago,"311 Swift Ave # 1ST, Durham, NC","2 bds  2 ba  1,100 sqft",zillow.com/homedetails/311-Swift-Ave-1ST-Durham-NC-27705/2094886739_zpid/
-Condo For Rent,$695/mo,7 days ago,"920 Hale St # A, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/920-Hale-St-A-Durham-NC-27705/2119253472_zpid/
-House For Rent,"$2,695/mo",9 days ago,"207 Pathwood Ln, Durham, NC","4 bds  3 ba  3,200 sqft",zillow.com/homedetails/207-Pathwood-Ln-Durham-NC-27705/89691342_zpid/
-Townhouse For Rent,"$1,900/mo",10 days ago,"2608 Erwin Rd UNIT 417, Durham, NC","2 bds  2 ba  1,225 sqft",zillow.com/homedetails/2608-Erwin-Rd-UNIT-417-Durham-NC-27705/2111814668_zpid/
-House For Rent,"$2,000/mo",10 days ago,"1108 Georgia Ave, Durham, NC","3 bds  2 ba  1,440 sqft",zillow.com/homedetails/1108-Georgia-Ave-Durham-NC-27705/49968886_zpid/
-House For Rent,$950/mo,12 days ago,"1116-A 9th St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/1116-A-9th-St-Durham-NC-27705/2114942890_zpid/
-House For Rent,"$1,150/mo",13 days ago,"3701 Tremont Dr, Durham, NC","3 bds  1.5 ba  1,196 sqft",zillow.com/homedetails/3701-Tremont-Dr-Durham-NC-27705/49984352_zpid/
-Apartment For Rent,$715/mo,14 days ago,"2604 Englewood Ave # 3, Durham, NC",1 bd  1 ba  386 sqft,zillow.com/homedetails/2604-Englewood-Ave-3-Durham-NC-27705/2103692679_zpid/
-House For Rent,"$1,550/mo",14 days ago,"2504 Pickett Rd, Durham, NC","3 bds  2 ba  1,750 sqft",zillow.com/homedetails/2504-Pickett-Rd-Durham-NC-27705/49978209_zpid/
-Condo For Rent,"$1,300/mo",15 days ago,"3701 Pickett Road Durham # NC, Durham, NC","3 bds  1.5 ba  1,700 sqft",zillow.com/homedetails/3701-Pickett-Road-Durham-NC-Durham-NC-27705/2095331406_zpid/
-Townhouse For Rent,$915/mo,20 days ago,"1020 Sedgefield Street A Left, Durham, NC",1 bd  1 ba  580 sqft,zillow.com/homedetails/1020-Sedgefield-Street-A-Left-Durham-NC-27705/2106000498_zpid/
-House For Rent,"$1,300/mo",20 days ago,"22 Prestwick Pl, Durham, NC","3 bds  2 ba  1,450 sqft",zillow.com/homedetails/22-Prestwick-Pl-Durham-NC-27705/50015803_zpid/
-Townhouse For Rent,"$1,050/mo",21 days ago,"52 Stoneridge Rd, Durham, NC","2 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/52-Stoneridge-Rd-Durham-NC-27705/49993052_zpid/
-House For Rent,"$2,275/mo",11 days ago,"13 Covington Ln, Durham, NC","4 bds  2.5 ba  3,312 sqft",zillow.com/homedetails/13-Covington-Ln-Durham-NC-27712/50027906_zpid/
-Apartment For Rent,"$1,950/mo",16 days ago,"5606 Paces Ferry Dr # 1, Durham, NC",4 bds  2.5 ba  -- sqft,zillow.com/homedetails/5606-Paces-Ferry-Dr-1-Durham-NC-27712/2094991752_zpid/
-House For Rent,"$1,850/mo",18 days ago,"603 Red Cedar Cir, Durham, NC","3 bds  2 ba  2,375 sqft",zillow.com/homedetails/603-Red-Cedar-Cir-Durham-NC-27712/61727690_zpid/
-House For Rent,"$1,175/mo",20 days ago,"6921 Russell Rd, Durham, NC","3 bds  2 ba  1,344 sqft",zillow.com/homedetails/6921-Russell-Rd-Durham-NC-27712/50024520_zpid/
-House For Rent,"$2,495/mo",22 days ago,"1202 Summerville Ln, Durham, NC","4 bds  3.5 ba  3,464 sqft",zillow.com/homedetails/1202-Summerville-Ln-Durham-NC-27712/50027525_zpid/
-House For Rent,"$1,800/mo",28 days ago,"1110 Country Club Dr, Durham, NC","4 bds  2.5 ba  2,252 sqft",zillow.com/homedetails/1110-Country-Club-Dr-Durham-NC-27712/61727565_zpid/
-House For Rent,"$1,800/mo",29 days ago,"5 Rosemeade Pl, Durham, NC","4 bds  3.5 ba  3,000 sqft",zillow.com/homedetails/5-Rosemeade-Pl-Durham-NC-27712/80200370_zpid/
-House For Rent,"$4,000/mo",196 days ago,"222 Tennwood Ct, Durham, NC","5 bds  5 ba  6,456 sqft",zillow.com/homedetails/222-Tennwood-Ct-Durham-NC-27712/50027701_zpid/
-House For Rent,"$2,400/mo",1 day ago,"1310 Kent St, Durham, NC","3 bds  2.5 ba  2,592 sqft",zillow.com/homedetails/1310-Kent-St-Durham-NC-27707/49972032_zpid/
-House For Rent,$950/mo,1 day ago,"2514 Atlantic St, Durham, NC","3 bds  1.5 ba  1,054 sqft",zillow.com/homedetails/2514-Atlantic-St-Durham-NC-27707/49977956_zpid/
-House For Rent,"$1,395/mo",1 day ago,"1024 Starlight Dr, Durham, NC","2 bds  1 ba  1,030 sqft",zillow.com/homedetails/1024-Starlight-Dr-Durham-NC-27707/49977412_zpid/
-House For Rent,"$2,200/mo",2 days ago,"4 Pulley Pl, Durham, NC","4 bds  2.5 ba  2,967 sqft",zillow.com/homedetails/4-Pulley-Pl-Durham-NC-27707/49994503_zpid/
-House For Rent,$850/mo,3 days ago,"1023 Cornell St, Durham, NC","3 bds  1 ba  1,400 sqft",zillow.com/homedetails/1023-Cornell-St-Durham-NC-27707/49976955_zpid/
-Apartment For Rent,$995/mo,6 days ago,"901 S Duke St APT 10, Durham, NC",2 bds  1 ba  800 sqft,zillow.com/homedetails/901-S-Duke-St-APT-10-Durham-NC-27707/2094882045_zpid/
-Apartment For Rent,$940/mo,8 days ago,"Garrett Rd, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/Garrett-Rd-Durham-NC-27707/2094907583_zpid/
-House For Rent,"$1,300/mo",8 days ago,"4331 Jean Ave, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/4331-Jean-Ave-Durham-NC-27707/2094914023_zpid/
-House For Rent,"$2,895/mo",12 days ago,"10 Teahouse Ct, Durham, NC","4 bds  3.5 ba  3,203 sqft",zillow.com/homedetails/10-Teahouse-Ct-Durham-NC-27707/80199637_zpid/
-House For Rent,$995/mo,15 days ago,"19065 James St, Durham, NC",1 bd  1 ba  700 sqft,zillow.com/homedetails/19065-James-St-Durham-NC-27707/2103120782_zpid/
-House For Rent,$950/mo,16 days ago,"904 Medina St, Durham, NC","3 bds  1 ba  1,090 sqft",zillow.com/homedetails/904-Medina-St-Durham-NC-27707/49990319_zpid/
-House For Rent,"$2,100/mo",19 days ago,"11 Prentiss Pl, Durham, NC","3 bds  2 ba  1,650 sqft",zillow.com/homedetails/11-Prentiss-Pl-Durham-NC-27707/49982219_zpid/
-House For Rent,"$2,400/mo",1 day ago,"1310 Kent St, Durham, NC","3 bds  2.5 ba  2,592 sqft",zillow.com/homedetails/1310-Kent-St-Durham-NC-27707/49972032_zpid/
-House For Rent,"$1,250/mo",19 days ago,"24 Burgess Ln, Durham, NC","3 bds  2 ba  1,208 sqft",zillow.com/homedetails/24-Burgess-Ln-Durham-NC-27707/49971316_zpid/
-Apartment For Rent,$825/mo,20 days ago,"2107 Crosswind Ave, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/2107-Crosswind-Ave-Durham-NC-27707/2098300584_zpid/
-Townhouse For Rent,"$1,725/mo",20 days ago,"125 Jennel Way, Durham, NC","3 bds  3 ba  2,400 sqft",zillow.com/homedetails/125-Jennel-Way-Durham-NC-27707/70923816_zpid/
-House For Rent,$950/mo,21 days ago,"2418 Chapin St, Durham, NC",3 bds  1 ba  945 sqft,zillow.com/homedetails/2418-Chapin-St-Durham-NC-27707/49978432_zpid/
-House For Rent,$800/mo,21 days ago,"2212 Chautauqua Ave, Durham, NC",2 bds  1 ba  950 sqft,zillow.com/homedetails/2212-Chautauqua-Ave-Durham-NC-27707/49977851_zpid/
-House For Rent,"$2,495/mo",22 days ago,"4611 Marena Pl, Durham, NC","5 bds  3 ba  3,371 sqft",zillow.com/homedetails/4611-Marena-Pl-Durham-NC-27707/119254581_zpid/
-House For Rent,"$1,250/mo",27 days ago,"1918 Cecil St, Durham, NC","3 bds  2 ba  2,016 sqft",zillow.com/homedetails/1918-Cecil-St-Durham-NC-27707/49977713_zpid/
 House For Rent,$800/mo,2 days ago,"611 Midway Ave, Durham, NC",2 bds  1 ba  830 sqft,zillow.com/homedetails/611-Midway-Ave-Durham-NC-27703/50006342_zpid/
 House For Rent,"$1,150/mo",4 days ago,"3318 Ivey Wood Ln, Durham, NC","3 bds  2.5 ba  1,352 sqft",zillow.com/homedetails/3318-Ivey-Wood-Ln-Durham-NC-27703/89698322_zpid/
 House For Rent,"$1,250/mo",5 days ago,"112 Kingsley Woods Dr, Durham, NC","3 bds  2 ba  1,335 sqft",zillow.com/homedetails/112-Kingsley-Woods-Dr-Durham-NC-27703/50010273_zpid/
 Apartment For Rent,$850/mo,5 days ago,"310 Alcona Ave # C, Durham, NC","1 bd  1 ba  1,727 sqft",zillow.com/homedetails/310-Alcona-Ave-C-Durham-NC-27703/2094861575_zpid/
-House For Rent,"$1,795/mo",5 days ago,"105 Navan Glass Dr, Durham, NC","3 bds  2.5 ba  1,885 sqft",zillow.com/homedetails/105-Navan-Glass-Dr-Durham-NC-27703/2096291376_zpid/
-House For Rent,"$1,500/mo",5 days ago,"4636 Angier Ave, Durham, NC","2 bds  1 ba  1,484 sqft",zillow.com/homedetails/4636-Angier-Ave-Durham-NC-27703/50010381_zpid/
 House For Rent,$850/mo,7 days ago,"2106 Hart St, Durham, NC","2 bds  1 ba  1,188 sqft",zillow.com/homedetails/2106-Hart-St-Durham-NC-27703/49975098_zpid/
-House For Rent,"$1,750/mo",8 days ago,"2003 Cedar Grove Dr, Durham, NC","3 bds  2.5 ba  2,690 sqft",zillow.com/homedetails/2003-Cedar-Grove-Dr-Durham-NC-27703/70922902_zpid/
 Townhouse For Rent,"$1,280/mo",8 days ago,"650 Ganyard Farm Way UNIT 26, Durham, NC","3 bds  2.5 ba  1,430 sqft",zillow.com/homedetails/650-Ganyard-Farm-Way-UNIT-26-Durham-NC-27703/89694760_zpid/
-House For Rent,"$1,550/mo",8 days ago,"15 S Indiancreek Pl, Durham, NC","3 bds  2.5 ba  1,727 sqft",zillow.com/homedetails/15-S-Indiancreek-Pl-Durham-NC-27703/50011892_zpid/
 House For Rent,"$1,425/mo",9 days ago,"107 Pebblestone Dr, Durham, NC","3 bds  2.5 ba  1,805 sqft",zillow.com/homedetails/107-Pebblestone-Dr-Durham-NC-27703/59713745_zpid/
-House For Rent,"$2,100/mo",10 days ago,"4 Alexis Ct, Durham, NC","3 bds  2.5 ba  2,300 sqft",zillow.com/homedetails/4-Alexis-Ct-Durham-NC-27703/70921467_zpid/
-House For Rent,"$1,650/mo",11 days ago,"226 Newberry Ln, Durham, NC","4 bds  2.5 ba  2,205 sqft",zillow.com/homedetails/226-Newberry-Ln-Durham-NC-27703/50011977_zpid/
 Apartment For Rent,$750/mo,12 days ago,"602 N Driver St # B, Durham, NC",1 bd  1 ba  924 sqft,zillow.com/homedetails/602-N-Driver-St-B-Durham-NC-27703/2094939152_zpid/
-House For Rent,"$1,845/mo",13 days ago,"123 Churment Ct, Durham, NC","3 bds  2.5 ba  1,820 sqft",zillow.com/homedetails/123-Churment-Ct-Durham-NC-27703/2096717414_zpid/
 House For Rent,"$1,495/mo",14 days ago,"704 Bellmeade Bay Dr, Durham, NC","3 bds  2.5 ba  1,874 sqft",zillow.com/homedetails/704-Bellmeade-Bay-Dr-Durham-NC-27703/50011227_zpid/
-House For Rent,"$1,500/mo",14 days ago,"719 Obsidian Way, Durham, NC","3 bds  2.5 ba  2,107 sqft",zillow.com/homedetails/719-Obsidian-Way-Durham-NC-27703/80198310_zpid/
 House For Rent,"$1,200/mo",15 days ago,"1907 Carden Ln, Durham, NC","3 bds  1 ba  1,200 sqft",zillow.com/homedetails/1907-Carden-Ln-Durham-NC-27703/49974944_zpid/
-House For Rent,"$1,450/mo",16 days ago,"2 Marsh Landing Ct, Durham, NC","4 bds  2.5 ba  1,916 sqft",zillow.com/homedetails/2-Marsh-Landing-Ct-Durham-NC-27703/50011204_zpid/
 Condo For Rent,$625/mo,4 days ago,"1403 Evelyn St A # B, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/1403-Evelyn-St-A-B-Durham-NC-27701/2094849833_zpid/
 House For Rent,"$1,100/mo",4 days ago,"1008 Morning Glory Ave, Durham, NC","4 bds  2 ba  1,500 sqft",zillow.com/homedetails/1008-Morning-Glory-Ave-Durham-NC-27701/49974779_zpid/
 Apartment For Rent,"$1,295/mo",6 days ago,"1306 W Chapel Hill St # B, Durham, NC",2 bds  1 ba  939 sqft,zillow.com/homedetails/1306-W-Chapel-Hill-St-B-Durham-NC-27701/2112667826_zpid/
 Apartment For Rent,$800/mo,6 days ago,"612 Watts St, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/612-Watts-St-Durham-NC-27701/2094883111_zpid/
-Apartment For Rent,"$1,700/mo",6 days ago,"600 W Main St, Durham, NC",1 bd  1 ba  780 sqft,zillow.com/homedetails/600-W-Main-St-Durham-NC-27701/2098948531_zpid/
 House For Rent,"$1,495/mo",8 days ago,"1714 N Roxboro St, Durham, NC","3 bds  1 ba  1,020 sqft",zillow.com/homedetails/1714-N-Roxboro-St-Durham-NC-27701/49973077_zpid/
 Apartment For Rent,$655/mo,8 days ago,"636 W Club Blvd # A, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/636-W-Club-Blvd-A-Durham-NC-27701/2117731952_zpid/
 House For Rent,$850/mo,13 days ago,"806 Cox Ave, Durham, NC",2 bds  1 ba  638 sqft,zillow.com/homedetails/806-Cox-Ave-Durham-NC-27701/49979034_zpid/
 Condo For Rent,$550/mo,18 days ago,"1012 S Alston Ave Durham Nc # 27701, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/1012-S-Alston-Ave-Durham-Nc-27701-Durham-NC-27701/2095003322_zpid/
-House For Rent,"$1,600/mo",19 days ago,"207 W Corporation St, Durham, NC","2 bds  1 ba  1,056 sqft",zillow.com/homedetails/207-W-Corporation-St-Durham-NC-27701/49969735_zpid/
-House For Rent,"$1,500/mo",19 days ago,"1105 Taylor St, Durham, NC","3 bds  2 ba  1,300 sqft",zillow.com/homedetails/1105-Taylor-St-Durham-NC-27701/49974716_zpid/
-House For Rent,"$97,500/mo",1 day ago,"1218 Horton Rd, Durham, NC","3 bds  2 ba  1,190 sqft",zillow.com/homedetails/1218-Horton-Rd-Durham-NC-27704/49986204_zpid/
 House For Rent,"$1,350/mo",22 days ago,"410 Gray Ave, Durham, NC","3 bds  1 ba  1,352 sqft",zillow.com/homedetails/410-Gray-Ave-Durham-NC-27701/49973904_zpid/
 Townhouse For Rent,$995/mo,25 days ago,"508 Gurley St # B, Durham, NC",2 bds  1 ba  775 sqft,zillow.com/homedetails/508-Gurley-St-B-Durham-NC-27701/2095085197_zpid/
 Apartment For Rent,$915/mo,26 days ago,"906 W Trinity Ave APT 2, Durham, NC",1 bd  1 ba  813 sqft,zillow.com/homedetails/906-W-Trinity-Ave-APT-2-Durham-NC-27701/2106319792_zpid/
 Apartment For Rent,$915/mo,26 days ago,"1212 Green St, Durham, NC",1 bd  1 ba  575 sqft,zillow.com/homedetails/1212-Green-St-Durham-NC-27701/2095106568_zpid/
-Apartment For Rent,$495/mo,26 days ago,"1013 Drew St APT D, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/1013-Drew-St-APT-D-Durham-NC-27701/2095107876_zpid/
+Apartment For Rent,$495/mo,27 days ago,"1013 Drew St APT D, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/1013-Drew-St-APT-D-Durham-NC-27701/2095107876_zpid/
 Townhouse For Rent,$995/mo,33 days ago,"404 Canal St, Durham, NC","3 bds  1 ba  1,150 sqft",zillow.com/homedetails/404-Canal-St-Durham-NC-27701/49973658_zpid/
 Apartment For Rent,$675/mo,35 days ago,"1802 N Alston Ave # A, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/1802-N-Alston-Ave-A-Durham-NC-27701/2100350150_zpid/
-Apartment For Rent,$915/mo,36 days ago,"1406 W Chapel Hill St APT A, Durham, NC",1 bd  1 ba  763 sqft,zillow.com/homedetails/1406-W-Chapel-Hill-St-APT-A-Durham-NC-27701/2102815819_zpid/
-Apartment For Rent,$895/mo,36 days ago,"1100 N Buchanan Blvd # A, Durham, NC",1 bd  1 ba  631 sqft,zillow.com/homedetails/1100-N-Buchanan-Blvd-A-Durham-NC-27701/2108875458_zpid/
-Apartment For Rent,"$1,700/mo",37 days ago,"117 W Seeman St, Durham, NC","2 bds  1 ba  1,400 sqft",zillow.com/homedetails/117-W-Seeman-St-Durham-NC-27701/49973482_zpid/
+Apartment For Rent,$915/mo,37 days ago,"1406 W Chapel Hill St APT A, Durham, NC",1 bd  1 ba  763 sqft,zillow.com/homedetails/1406-W-Chapel-Hill-St-APT-A-Durham-NC-27701/2102815819_zpid/
+Apartment For Rent,$895/mo,37 days ago,"1100 N Buchanan Blvd # A, Durham, NC",1 bd  1 ba  631 sqft,zillow.com/homedetails/1100-N-Buchanan-Blvd-A-Durham-NC-27701/2108875458_zpid/
 House For Rent,$995/mo,1 day ago,"2718 Highland Ave, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/2718-Highland-Ave-Durham-NC-27704/49980706_zpid/
 House For Rent,"$1,380/mo",2 days ago,"1914 Watson Rd, Durham, NC","3 bds  2 ba  1,400 sqft",zillow.com/homedetails/1914-Watson-Rd-Durham-NC-27704/2094839987_zpid/
 Townhouse For Rent,$900/mo,5 days ago,"41 Stonewall Way, Durham, NC","2 bds  1.5 ba  1,132 sqft",zillow.com/homedetails/41-Stonewall-Way-Durham-NC-27704/49986320_zpid/
 House For Rent,$985/mo,5 days ago,"409 Newsom St, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/409-Newsom-St-Durham-NC-27704/49986888_zpid/
 Townhouse For Rent,$900/mo,6 days ago,"37 Signet Dr, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/37-Signet-Dr-Durham-NC-27704/61725472_zpid/
-Apartment For Rent,$675/mo,8 days ago,"1318 Marne Ave APT A, Durham, NC",2 bds  1.5 ba  -- sqft,zillow.com/homedetails/1318-Marne-Ave-APT-A-Durham-NC-27704/2094915283_zpid/
+Apartment For Rent,$675/mo,9 days ago,"1318 Marne Ave APT A, Durham, NC",2 bds  1.5 ba  -- sqft,zillow.com/homedetails/1318-Marne-Ave-APT-A-Durham-NC-27704/2094915283_zpid/
 Apartment For Rent,$750/mo,15 days ago,"1419 Cherrycrest Dr # B, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/1419-Cherrycrest-Dr-B-Durham-NC-27704/2094979072_zpid/
 Condo For Rent,$650/mo,18 days ago,"205 E Maynard Ave APT 8, Durham, NC",1 bd  1 ba  700 sqft,zillow.com/homedetails/205-E-Maynard-Ave-APT-8-Durham-NC-27704/2095007347_zpid/
 House For Rent,"$1,095/mo",19 days ago,"4018 Sudbury Rd, Durham, NC",3 bds  1 ba  987 sqft,zillow.com/homedetails/4018-Sudbury-Rd-Durham-NC-27704/50014404_zpid/
-House For Rent,"$1,695/mo",19 days ago,"1919 Ruffin St, Durham, NC","3 bds  2 ba  1,722 sqft",zillow.com/homedetails/1919-Ruffin-St-Durham-NC-27704/49970923_zpid/
-Apartment For Rent,$950/mo,19 days ago,"105 W Club Blvd # DUPLEX, Durham, NC",2 bds  1 ba  720 sqft,zillow.com/homedetails/105-W-Club-Blvd-DUPLEX-Durham-NC-27704/2097191574_zpid/
+Apartment For Rent,$950/mo,20 days ago,"105 W Club Blvd # DUPLEX, Durham, NC",2 bds  1 ba  720 sqft,zillow.com/homedetails/105-W-Club-Blvd-DUPLEX-Durham-NC-27704/2097191574_zpid/
+House For Rent,"$1,175/mo",20 days ago,"6921 Russell Rd, Durham, NC","3 bds  2 ba  1,344 sqft",zillow.com/homedetails/6921-Russell-Rd-Durham-NC-27712/50024520_zpid/
 House For Rent,"$1,320/mo",20 days ago,"4001 Lady Slipper Ln, Durham, NC","3 bds  2.5 ba  1,524 sqft",zillow.com/homedetails/4001-Lady-Slipper-Ln-Durham-NC-27704/98178118_zpid/
-House For Rent,"$1,625/mo",20 days ago,"6 Smoky River Ct, Durham, NC","4 bds  2.5 ba  2,200 sqft",zillow.com/homedetails/6-Smoky-River-Ct-Durham-NC-27704/87750741_zpid/
 House For Rent,"$1,225/mo",21 days ago,"2504 Kingdom Way, Durham, NC","3 bds  1.5 ba  1,478 sqft",zillow.com/homedetails/2504-Kingdom-Way-Durham-NC-27704/49988081_zpid/
 House For Rent,$925/mo,23 days ago,"1103 Chalk Level Rd, Durham, NC","2 bds  1 ba  1,176 sqft",zillow.com/homedetails/1103-Chalk-Level-Rd-Durham-NC-27704/59711244_zpid/
 Condo For Rent,"$1,000/mo",23 days ago,"34 Stonewall Way, Durham, NC","3 bds  2 ba  1,150 sqft",zillow.com/homedetails/34-Stonewall-Way-Durham-NC-27704/49986341_zpid/
 Apartment For Rent,"$1,000/mo",26 days ago,"1203 Chalk Level Rd # 1203, Durham, NC",2 bds  1 ba  906 sqft,zillow.com/homedetails/1203-Chalk-Level-Rd-1203-Durham-NC-27704/2095101144_zpid/
 House For Rent,"$1,450/mo",26 days ago,"304 Newsom St, Durham, NC","3 bds  2 ba  1,100 sqft",zillow.com/homedetails/304-Newsom-St-Durham-NC-27704/49986840_zpid/
-House For Rent,"$1,195/mo",28 days ago,"3707 Turrentine St, Durham, NC","3 bds  2 ba  1,559 sqft",zillow.com/homedetails/3707-Turrentine-St-Durham-NC-27704/49986949_zpid/
 House For Rent,"$1,475/mo",33 days ago,"2017 Spring Creek Dr, Durham, NC","3 bds  2.5 ba  1,804 sqft",zillow.com/homedetails/2017-Spring-Creek-Dr-Durham-NC-27704/70922288_zpid/
 House For Rent,"$1,250/mo",35 days ago,"915 Horton Rd, Durham, NC","3 bds  2.5 ba  1,525 sqft",zillow.com/homedetails/915-Horton-Rd-Durham-NC-27704/49986070_zpid/
 House For Rent,"$1,495/mo",35 days ago,"817 Northwood Hills Ave, Durham, NC","3 bds  2.5 ba  1,742 sqft",zillow.com/homedetails/817-Northwood-Hills-Ave-Durham-NC-27704/61727372_zpid/
-House For Rent,"$1,695/mo",36 days ago,"905 Sweet Gale Dr, Durham, NC","3 bds  2.5 ba  2,225 sqft",zillow.com/homedetails/905-Sweet-Gale-Dr-Durham-NC-27704/98221038_zpid/
-House For Rent,"$1,600/mo",4 days ago,"15 Richardson Cir, Durham, NC","3 bds  2.5 ba  1,601 sqft",zillow.com/homedetails/15-Richardson-Cir-Durham-NC-27713/70923566_zpid/
-House For Rent,"$1,700/mo",4 days ago,"5520 Lacy Rd, Durham, NC","3 bds  2.5 ba  1,850 sqft",zillow.com/homedetails/5520-Lacy-Rd-Durham-NC-27713/50004917_zpid/
-Townhouse For Rent,"$1,850/mo",5 days ago,"1006 Midtowne Way, Durham, NC","3 bds  3.5 ba  1,800 sqft",zillow.com/homedetails/1006-Midtowne-Way-Durham-NC-27713/124725745_zpid/
-House For Rent,"$2,095/mo",5 days ago,"6 Noorin Ct, Durham, NC","3 bds  3.5 ba  2,300 sqft",zillow.com/homedetails/6-Noorin-Ct-Durham-NC-27713/80202280_zpid/
-House For Rent,"$1,750/mo",6 days ago,"1347 Catch Fly Ln, Durham, NC","3 bds  2.5 ba  1,762 sqft",zillow.com/homedetails/1347-Catch-Fly-Ln-Durham-NC-27713/2094876984_zpid/
-House For Rent,"$1,795/mo",6 days ago,"5604 Catskill Ct, Durham, NC","4 bds  2.5 ba  2,512 sqft",zillow.com/homedetails/5604-Catskill-Ct-Durham-NC-27713/70592619_zpid/
-House For Rent,"$2,000/mo",7 days ago,"1932 Rustica Dr, Durham, NC",3 bds  2 ba  -- sqft,zillow.com/homedetails/1932-Rustica-Dr-Durham-NC-27713/124721857_zpid/
+House For Rent,"$1,325/mo",37 days ago,"4211 Lady Slipper Ln, Durham, NC","3 bds  2.5 ba  1,512 sqft",zillow.com/homedetails/4211-Lady-Slipper-Ln-Durham-NC-27704/70921518_zpid/
+House For Rent,$950/mo,1 day ago,"2514 Atlantic St, Durham, NC","3 bds  1.5 ba  1,054 sqft",zillow.com/homedetails/2514-Atlantic-St-Durham-NC-27707/49977956_zpid/
+House For Rent,"$1,395/mo",1 day ago,"1024 Starlight Dr, Durham, NC","2 bds  1 ba  1,030 sqft",zillow.com/homedetails/1024-Starlight-Dr-Durham-NC-27707/49977412_zpid/
+House For Rent,$850/mo,3 days ago,"1023 Cornell St, Durham, NC","3 bds  1 ba  1,400 sqft",zillow.com/homedetails/1023-Cornell-St-Durham-NC-27707/49976955_zpid/
+Apartment For Rent,$995/mo,6 days ago,"901 S Duke St APT 10, Durham, NC",2 bds  1 ba  800 sqft,zillow.com/homedetails/901-S-Duke-St-APT-10-Durham-NC-27707/2094882045_zpid/
+Apartment For Rent,$940/mo,8 days ago,"Garrett Rd, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/Garrett-Rd-Durham-NC-27707/2094907583_zpid/
+House For Rent,"$1,300/mo",8 days ago,"4331 Jean Ave, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/4331-Jean-Ave-Durham-NC-27707/2094914023_zpid/
+House For Rent,$995/mo,15 days ago,"19065 James St, Durham, NC",1 bd  1 ba  700 sqft,zillow.com/homedetails/19065-James-St-Durham-NC-27707/2103120782_zpid/
+House For Rent,$950/mo,16 days ago,"904 Medina St, Durham, NC","3 bds  1 ba  1,090 sqft",zillow.com/homedetails/904-Medina-St-Durham-NC-27707/49990319_zpid/
+House For Rent,"$1,250/mo",19 days ago,"24 Burgess Ln, Durham, NC","3 bds  2 ba  1,208 sqft",zillow.com/homedetails/24-Burgess-Ln-Durham-NC-27707/49971316_zpid/
+Apartment For Rent,$825/mo,20 days ago,"2107 Crosswind Ave, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/2107-Crosswind-Ave-Durham-NC-27707/2098300584_zpid/
+House For Rent,$950/mo,21 days ago,"2418 Chapin St, Durham, NC",3 bds  1 ba  945 sqft,zillow.com/homedetails/2418-Chapin-St-Durham-NC-27707/49978432_zpid/
+House For Rent,$800/mo,21 days ago,"2212 Chautauqua Ave, Durham, NC",2 bds  1 ba  950 sqft,zillow.com/homedetails/2212-Chautauqua-Ave-Durham-NC-27707/49977851_zpid/
 House For Rent,"$1,300/mo",8 days ago,"1416 Sedwick Rd, Durham, NC","3 bds  2.5 ba  1,200 sqft",zillow.com/homedetails/1416-Sedwick-Rd-Durham-NC-27713/50018796_zpid/
-House For Rent,"$1,500/mo",10 days ago,"133 Radcliff Cir, Durham, NC","3 bds  2 ba  1,705 sqft",zillow.com/homedetails/133-Radcliff-Cir-Durham-NC-27713/50003988_zpid/
 House For Rent,"$1,295/mo",11 days ago,"1521 Euclid Rd, Durham, NC","3 bds  2 ba  1,434 sqft",zillow.com/homedetails/1521-Euclid-Rd-Durham-NC-27713/50003622_zpid/
-Apartment For Rent,$875/mo,12 days ago,"3706 Chimney Ridge Pl APT 103, Durham, NC",2 bds  2 ba  900 sqft,zillow.com/homedetails/3706-Chimney-Ridge-Pl-APT-103-Durham-NC-27713/49998640_zpid/
-House For Rent,"$2,200/mo",13 days ago,"8009 Sundance Cir, Durham, NC","3 bds  2.5 ba  2,330 sqft",zillow.com/homedetails/8009-Sundance-Cir-Durham-NC-27713/87754131_zpid/
-House For Rent,"$1,750/mo",14 days ago,"5218 Greyfield Blvd, Durham, NC","4 bds  2.5 ba  2,508 sqft",zillow.com/homedetails/5218-Greyfield-Blvd-Durham-NC-27713/50000231_zpid/
 House For Rent,"$1,475/mo",15 days ago,"3 Kilbreth Ave, Durham, NC","3 bds  2.5 ba  1,850 sqft",zillow.com/homedetails/3-Kilbreth-Ave-Durham-NC-27713/49999913_zpid/
 Townhouse For Rent,$950/mo,19 days ago,"1509 Clermont Rd APT T25, Durham, NC","2 bds  1.5 ba  1,100 sqft",zillow.com/homedetails/1509-Clermont-Rd-APT-T25-Durham-NC-27713/2110535167_zpid/
 House For Rent,"$1,325/mo",19 days ago,"14 Mulberry Ct, Durham, NC","2 bds  2.5 ba  1,569 sqft",zillow.com/homedetails/14-Mulberry-Ct-Durham-NC-27713/98217363_zpid/
 House For Rent,"$1,295/mo",20 days ago,"6304 Barbee Rd, Durham, NC","2 bds  2 ba  2,000 sqft",zillow.com/homedetails/6304-Barbee-Rd-Durham-NC-27713/50000572_zpid/
-House For Rent,"$1,195/mo",21 days ago,"708 Cook Rd, Durham, NC","3 bds  2 ba  1,008 sqft",zillow.com/homedetails/708-Cook-Rd-Durham-NC-27713/49991035_zpid/
+House For Rent,"$1,300/mo",82 days ago,"303 Brookberry Cir, Chapel Hill, NC","3 bds  2.5 ba  1,512 sqft",zillow.com/homedetails/303-Brookberry-Cir-Chapel-Hill-NC-27517/49996504_zpid/
+Condo For Rent,$975/mo,96 days ago,"3 Banstead Pl, Chapel Hill, NC","1 bd  1 ba  1,180 sqft",zillow.com/homedetails/3-Banstead-Pl-Chapel-Hill-NC-27517/49997077_zpid/
+Apartment For Rent,"$1,195/mo",108 days ago,"114 New Castle Dr, Chapel Hill, NC",1 bd  1 ba  825 sqft,zillow.com/homedetails/114-New-Castle-Dr-Chapel-Hill-NC-27517/2096060782_zpid/
+House For Rent,"$1,495/mo",350 days ago,"4505 Environ Way, Chapel Hill, NC",1 bd  1 ba  700 sqft,zillow.com/homedetails/4505-Environ-Way-Chapel-Hill-NC-27517/98791827_zpid/
+House For Rent,"$1,450/mo",16 days ago,"2 Marsh Landing Ct, Durham, NC","4 bds  2.5 ba  1,916 sqft",zillow.com/homedetails/2-Marsh-Landing-Ct-Durham-NC-27703/50011204_zpid/
+House For Rent,"$1,100/mo",21 days ago,"2408 Hart St, Durham, NC",3 bds  1 ba  960 sqft,zillow.com/homedetails/2408-Hart-St-Durham-NC-27703/49976513_zpid/
+House For Rent,"$1,275/mo",21 days ago,"804 Hounds Chase Dr, Durham, NC","3 bds  2 ba  1,268 sqft",zillow.com/homedetails/804-Hounds-Chase-Dr-Durham-NC-27703/59713858_zpid/
+House For Rent,"$1,250/mo",21 days ago,"2504 Wedgedale Ave, Durham, NC","3 bds  2 ba  1,105 sqft",zillow.com/homedetails/2504-Wedgedale-Ave-Durham-NC-27703/49988778_zpid/
+House For Rent,"$1,300/mo",22 days ago,"211 Husketh Dr, Durham, NC","4 bds  2 ba  1,138 sqft",zillow.com/homedetails/211-Husketh-Dr-Durham-NC-27703/50011453_zpid/
+Apartment For Rent,$650/mo,25 days ago,"625 Middle St, Durham, NC",2 bds  1 ba  682 sqft,zillow.com/homedetails/625-Middle-St-Durham-NC-27703/49980014_zpid/
+Condo For Rent,"$1,295/mo",28 days ago,"650 Ganyard Farm Way UNIT 14, Durham, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/650-Ganyard-Farm-Way-UNIT-14-Durham-NC-27703/87750120_zpid/
+House For Rent,"$1,000/mo",32 days ago,"511 Commonwealth St, Durham, NC","3 bds  1 ba  1,035 sqft",zillow.com/homedetails/511-Commonwealth-St-Durham-NC-27703/49988634_zpid/
+Townhouse For Rent,"$1,350/mo",32 days ago,"304 N Driver St # B, Durham, NC","4 bds  2 ba  1,458 sqft",zillow.com/homedetails/304-N-Driver-St-B-Durham-NC-27703/2095165561_zpid/
+Apartment For Rent,$750/mo,34 days ago,"1201 Eva St, Durham, NC",2 bds  1 ba  850 sqft,zillow.com/homedetails/1201-Eva-St-Durham-NC-27703/49975509_zpid/
+House For Rent,"$1,195/mo",35 days ago,"6 Redear Pl, Durham, NC","3 bds  2 ba  1,058 sqft",zillow.com/homedetails/6-Redear-Pl-Durham-NC-27703/50011928_zpid/
+House For Rent,"$1,000/mo",36 days ago,"Rochelle St, Durham, NC",3 bds  1 ba  -- sqft,zillow.com/homedetails/Rochelle-St-Durham-NC-27703/2098193654_zpid/
+Townhouse For Rent,"$1,200/mo",44 days ago,"1725 Tw Alexander Dr UNIT 701, Durham, NC","3 bds  2.5 ba  1,485 sqft",zillow.com/homedetails/1725-Tw-Alexander-Dr-UNIT-701-Durham-NC-27703/2126156781_zpid/
+House For Rent,"$1,425/mo",50 days ago,"1006 Bengel Dr, Durham, NC","3 bds  2.5 ba  1,453 sqft",zillow.com/homedetails/1006-Bengel-Dr-Durham-NC-27703/80198916_zpid/
+House For Rent,"$1,350/mo",44 days ago,"717 Eva St, Durham, NC","3 bds  1 ba  1,044 sqft",zillow.com/homedetails/717-Eva-St-Durham-NC-27701/49974443_zpid/
+House For Rent,$695/mo,53 days ago,"836 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/836-Estes-St-Durham-NC-27701/2095417476_zpid/
+House For Rent,$695/mo,54 days ago,"848 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/848-Estes-St-Durham-NC-27701/2113040144_zpid/
+House For Rent,$695/mo,54 days ago,"846 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/846-Estes-St-Durham-NC-27701/49972501_zpid/
+Apartment For Rent,"$1,350/mo",64 days ago,"813 N Buchanan Blvd # A, Durham, NC",2 bds  1 ba  850 sqft,zillow.com/homedetails/813-N-Buchanan-Blvd-A-Durham-NC-27701/2095581172_zpid/
+Townhouse For Rent,$895/mo,77 days ago,"608 W Club Blvd, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/608-W-Club-Blvd-Durham-NC-27701/49970939_zpid/
+House For Rent,"$1,450/mo",99 days ago,"213 Northwood Cir, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/213-Northwood-Cir-Durham-NC-27701/49969810_zpid/
+Townhouse For Rent,"$1,145/mo",119 days ago,"1214 Granby St # A, Durham, NC","3 bds  2 ba  1,109 sqft",zillow.com/homedetails/1214-Granby-St-A-Durham-NC-27701/2096198761_zpid/
+Apartment For Rent,$900/mo,209 days ago,"420 Macon St, Durham, NC","3 bds  1 ba  1,000 sqft",zillow.com/homedetails/420-Macon-St-Durham-NC-27701/49970239_zpid/
 House For Rent,"$1,295/mo",13 days ago,"301 Franklin Upchurch St, Morrisville, NC","3 bds  2.5 ba  1,554 sqft",zillow.com/homedetails/301-Franklin-Upchurch-St-Morrisville-NC-27560/2124239380_zpid/
-House For Rent,"$1,395/mo",14 days ago,"120 Berrydowns Dr, Morrisville, NC","3 bds  2.5 ba  1,361 sqft",zillow.com/homedetails/120-Berrydowns-Dr-Morrisville-NC-27560/65336330_zpid/
-House For Rent,"$2,095/mo",15 days ago,"604 Kirkeenan Cir, Morrisville, NC","3 bds  3.5 ba  2,868 sqft",zillow.com/homedetails/604-Kirkeenan-Cir-Morrisville-NC-27560/67553184_zpid/
+House For Rent,"$1,395/mo",15 days ago,"120 Berrydowns Dr, Morrisville, NC","3 bds  2.5 ba  1,361 sqft",zillow.com/homedetails/120-Berrydowns-Dr-Morrisville-NC-27560/65336330_zpid/
 House For Rent,"$1,195/mo",15 days ago,"1214 Claret Ln, Morrisville, NC","2 bds  2 ba  1,270 sqft",zillow.com/homedetails/1214-Claret-Ln-Morrisville-NC-27560/62024333_zpid/
-House For Rent,"$1,550/mo",16 days ago,"2417 Historic Cir, Morrisville, NC","3 bds  2.5 ba  1,800 sqft",zillow.com/homedetails/2417-Historic-Cir-Morrisville-NC-27560/122059838_zpid/
-Townhouse For Rent,"$1,800/mo",17 days ago,"216 Plank Bridge Way, Morrisville, NC","3 bds  2.5 ba  2,457 sqft",zillow.com/homedetails/216-Plank-Bridge-Way-Morrisville-NC-27560/71844969_zpid/
 House For Rent,"$1,395/mo",20 days ago,"3012 Claret Ln, Morrisville, NC","3 bds  2 ba  1,356 sqft",zillow.com/homedetails/3012-Claret-Ln-Morrisville-NC-27560/60533274_zpid/
-House For Rent,"$1,595/mo",20 days ago,"5376 Jessip St, Morrisville, NC","3 bds  2.5 ba  1,566 sqft",zillow.com/homedetails/5376-Jessip-St-Morrisville-NC-27560/2101256762_zpid/
-House For Rent,"$2,250/mo",24 days ago,"125 River Pine Dr, Morrisville, NC","5 bds  4 ba  2,762 sqft",zillow.com/homedetails/125-River-Pine-Dr-Morrisville-NC-27560/116223323_zpid/
-Townhouse For Rent,"$1,599/mo",25 days ago,"1004 Corwith Dr, Morrisville, NC","3 bds  3 ba  1,770 sqft",zillow.com/homedetails/1004-Corwith-Dr-Morrisville-NC-27560/89493766_zpid/
-House For Rent,"$1,795/mo",26 days ago,"103 Grande Dr, Morrisville, NC","3 bds  2.5 ba  2,080 sqft",zillow.com/homedetails/103-Grande-Dr-Morrisville-NC-27560/53460317_zpid/
-House For Rent,"$1,525/mo",26 days ago,"2408 Historic Cir, Morrisville, NC","3 bds  2.5 ba  1,754 sqft",zillow.com/homedetails/2408-Historic-Cir-Morrisville-NC-27560/114430718_zpid/
-House For Rent,"$1,595/mo",26 days ago,"1540 Alemany St, Morrisville, NC","2 bds  2.5 ba  1,778 sqft",zillow.com/homedetails/1540-Alemany-St-Morrisville-NC-27560/118203486_zpid/
 Townhouse For Rent,"$1,395/mo",26 days ago,"526 Writers Way, Morrisville, NC","3 bds  2.5 ba  1,541 sqft",zillow.com/homedetails/526-Writers-Way-Morrisville-NC-27560/68320319_zpid/
-House For Rent,"$1,850/mo",27 days ago,"520 Excalibur Dr, Morrisville, NC","3 bds  3.5 ba  2,732 sqft",zillow.com/homedetails/520-Excalibur-Dr-Morrisville-NC-27560/2095114283_zpid/
-House For Rent,"$1,795/mo",27 days ago,"215 Begen St, Morrisville, NC","3 bds  2.5 ba  2,049 sqft",zillow.com/homedetails/215-Begen-St-Morrisville-NC-27560/122279867_zpid/
-House For Rent,"$1,650/mo",27 days ago,"126 Gratiot Dr, Morrisville, NC","4 bds  2.5 ba  1,955 sqft",zillow.com/homedetails/126-Gratiot-Dr-Morrisville-NC-27560/53458385_zpid/
-House For Rent,"$2,695/mo",30 days ago,"907 Crabtree Crossing Pkwy, Morrisville, NC","3 bds  3.5 ba  3,389 sqft",zillow.com/homedetails/907-Crabtree-Crossing-Pkwy-Morrisville-NC-27560/6556331_zpid/
 Apartment For Rent,"$1,150/mo",32 days ago,"3511 Kudrow Ln # 3511, Morrisville, NC","2 bds  2 ba  1,142 sqft",zillow.com/homedetails/3511-Kudrow-Ln-3511-Morrisville-NC-27560/2095160960_zpid/
 House For Rent,"$1,485/mo",32 days ago,"116 Waltons Creek Rd, Morrisville, NC","3 bds  2.5 ba  1,705 sqft",zillow.com/homedetails/116-Waltons-Creek-Rd-Morrisville-NC-27560/6495607_zpid/
-House For Rent,"$1,730/mo",32 days ago,"505 Durants Neck Ln, Morrisville, NC","3 bds  2.5 ba  1,900 sqft",zillow.com/homedetails/505-Durants-Neck-Ln-Morrisville-NC-27560/2095163553_zpid/
-Townhouse For Rent,"$1,700/mo",33 days ago,"328 View Dr, Morrisville, NC","3 bds  2.5 ba  2,178 sqft",zillow.com/homedetails/328-View-Dr-Morrisville-NC-27560/2095172752_zpid/
-House For Rent,"$1,895/mo",34 days ago,"112 Marengo Dr, Morrisville, NC","4 bds  2.5 ba  2,500 sqft",zillow.com/homedetails/112-Marengo-Dr-Morrisville-NC-27560/87885591_zpid/
-House For Rent,"$1,850/mo",35 days ago,"203 Begen St, Morrisville, NC","3 bds  3 ba  2,180 sqft",zillow.com/homedetails/203-Begen-St-Morrisville-NC-27560/122275804_zpid/
-Townhouse For Rent,"$1,675/mo",35 days ago,"129 Kathleen Ct, Morrisville, NC","3 bds  2.5 ba  1,750 sqft",zillow.com/homedetails/129-Kathleen-Ct-Morrisville-NC-27560/118202614_zpid/
 Townhouse For Rent,"$1,350/mo",35 days ago,"313 Ruby Walk Dr, Morrisville, NC","2 bds  2.5 ba  1,900 sqft",zillow.com/homedetails/313-Ruby-Walk-Dr-Morrisville-NC-27560/65339403_zpid/
-House For Rent,"$1,325/mo",37 days ago,"4211 Lady Slipper Ln, Durham, NC","3 bds  2.5 ba  1,512 sqft",zillow.com/homedetails/4211-Lady-Slipper-Ln-Durham-NC-27704/70921518_zpid/
 House For Rent,$895/mo,39 days ago,"21 Signet Dr, Durham, NC","2 bds  2 ba  1,400 sqft",zillow.com/homedetails/21-Signet-Dr-Durham-NC-27704/70921004_zpid/
 House For Rent,"$1,495/mo",40 days ago,"2809 Warren St, Durham, NC","3 bds  2.5 ba  1,540 sqft",zillow.com/homedetails/2809-Warren-St-Durham-NC-27704/61727402_zpid/
 House For Rent,"$1,200/mo",46 days ago,"1113 Pecan Pl, Durham, NC","3 bds  2 ba  1,152 sqft",zillow.com/homedetails/1113-Pecan-Pl-Durham-NC-27704/49987809_zpid/
@@ -193,155 +135,59 @@ House For Rent,"$1,395/mo",48 days ago,"3714 Mountain Brook Cir, Durham, NC","3 
 Apartment For Rent,"$1,100/mo",49 days ago,"1304 Cozart St UNIT 310, Durham, NC","2 bds  2.5 ba  1,455 sqft",zillow.com/homedetails/1304-Cozart-St-UNIT-310-Durham-NC-27704/98185995_zpid/
 Townhouse For Rent,"$1,250/mo",84 days ago,"844 Horton Rd APT 57, Durham, NC","2 bds  2 ba  1,191 sqft",zillow.com/homedetails/844-Horton-Rd-APT-57-Durham-NC-27704/2095825354_zpid/
 House For Rent,$949/mo,84 days ago,"700 E Ellerbee St, Durham, NC",2 bds  1 ba  672 sqft,zillow.com/homedetails/700-E-Ellerbee-St-Durham-NC-27704/49981022_zpid/
-House For Rent,"$1,295/mo",98 days ago,"803 Woodgreen Dr, Durham, NC","3 bds  2.5 ba  1,415 sqft",zillow.com/homedetails/803-Woodgreen-Dr-Durham-NC-27704/70920986_zpid/
-House For Rent,"$2,750/mo",139 days ago,"108 Parsons Green Ct, Durham, NC","3 bds  2.5 ba  2,100 sqft",zillow.com/homedetails/108-Parsons-Green-Ct-Durham-NC-27704/98185005_zpid/
+House For Rent,"$1,295/mo",99 days ago,"803 Woodgreen Dr, Durham, NC","3 bds  2.5 ba  1,415 sqft",zillow.com/homedetails/803-Woodgreen-Dr-Durham-NC-27704/70920986_zpid/
 House For Rent,"$1,380/mo",143 days ago,"9 Grifton Pl, Durham, NC","3 bds  2.5 ba  1,650 sqft",zillow.com/homedetails/9-Grifton-Pl-Durham-NC-27704/2096443143_zpid/
-House For Rent,"$2,750/mo",421 days ago,"110 Parsons Green Ct, Durham, NC","3 bds  2.5 ba  2,100 sqft",zillow.com/homedetails/110-Parsons-Green-Ct-Durham-NC-27704/98189248_zpid/
-House For Rent,"$1,300/mo",82 days ago,"303 Brookberry Cir, Chapel Hill, NC","3 bds  2.5 ba  1,512 sqft",zillow.com/homedetails/303-Brookberry-Cir-Chapel-Hill-NC-27517/49996504_zpid/
-Condo For Rent,$975/mo,96 days ago,"3 Banstead Pl, Chapel Hill, NC","1 bd  1 ba  1,180 sqft",zillow.com/homedetails/3-Banstead-Pl-Chapel-Hill-NC-27517/49997077_zpid/
-Apartment For Rent,"$1,195/mo",108 days ago,"114 New Castle Dr, Chapel Hill, NC",1 bd  1 ba  825 sqft,zillow.com/homedetails/114-New-Castle-Dr-Chapel-Hill-NC-27517/2096060782_zpid/
-House For Rent,"$3,900/mo",229 days ago,"4316 Taylor Hall Pl, Chapel Hill, NC","4 bds  4 ba  5,272 sqft",zillow.com/homedetails/4316-Taylor-Hall-Pl-Chapel-Hill-NC-27517/89665894_zpid/
-House For Rent,"$2,990/mo",266 days ago,"119 Broad Leaf Ct, Chapel Hill, NC","4 bds  3.5 ba  3,750 sqft",zillow.com/homedetails/119-Broad-Leaf-Ct-Chapel-Hill-NC-27517/2132460050_zpid/
-House For Rent,"$1,495/mo",349 days ago,"4505 Environ Way, Chapel Hill, NC",1 bd  1 ba  700 sqft,zillow.com/homedetails/4505-Environ-Way-Chapel-Hill-NC-27517/98791827_zpid/
-House For Rent,"$1,895/mo",40 days ago,"1014 Gloria Ave, Durham, NC","1 bd  1.5 ba  2,363 sqft",zillow.com/homedetails/1014-Gloria-Ave-Durham-NC-27701/49967946_zpid/
-House For Rent,"$1,350/mo",44 days ago,"717 Eva St, Durham, NC","3 bds  1 ba  1,044 sqft",zillow.com/homedetails/717-Eva-St-Durham-NC-27701/49974443_zpid/
-House For Rent,$695/mo,53 days ago,"836 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/836-Estes-St-Durham-NC-27701/2095417476_zpid/
-House For Rent,$695/mo,53 days ago,"848 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/848-Estes-St-Durham-NC-27701/2113040144_zpid/
-House For Rent,$695/mo,53 days ago,"846 Estes St, Durham, NC",1 bd  1 ba  -- sqft,zillow.com/homedetails/846-Estes-St-Durham-NC-27701/49972501_zpid/
-House For Rent,"$2,800/mo",59 days ago,"1118 N Duke St, Durham, NC","5 bds  2.5 ba  2,700 sqft",zillow.com/homedetails/1118-N-Duke-St-Durham-NC-27701/49968498_zpid/
-Apartment For Rent,"$1,350/mo",64 days ago,"813 N Buchanan Blvd # A, Durham, NC",2 bds  1 ba  850 sqft,zillow.com/homedetails/813-N-Buchanan-Blvd-A-Durham-NC-27701/2095581172_zpid/
-Townhouse For Rent,$895/mo,77 days ago,"608 W Club Blvd, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/608-W-Club-Blvd-Durham-NC-27701/49970939_zpid/
-House For Rent,"$1,450/mo",99 days ago,"213 Northwood Cir, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/213-Northwood-Cir-Durham-NC-27701/49969810_zpid/
-Townhouse For Rent,"$1,145/mo",119 days ago,"1214 Granby St # A, Durham, NC","3 bds  2 ba  1,109 sqft",zillow.com/homedetails/1214-Granby-St-A-Durham-NC-27701/2096198761_zpid/
-Condo For Rent,"$1,750/mo",131 days ago,"103 W Main St APT 205, Durham, NC","2 bds  2 ba  1,245 sqft",zillow.com/homedetails/103-W-Main-St-APT-205-Durham-NC-27701/2104663285_zpid/
-Apartment For Rent,$900/mo,209 days ago,"420 Macon St, Durham, NC","3 bds  1 ba  1,000 sqft",zillow.com/homedetails/420-Macon-St-Durham-NC-27701/49970239_zpid/
+House For Rent,"$1,195/mo",22 days ago,"3303 Coachmans Way, Durham, NC","2 bds  2.5 ba  1,276 sqft",zillow.com/homedetails/3303-Coachmans-Way-Durham-NC-27705/49993278_zpid/
+House For Rent,"$1,195/mo",21 days ago,"708 Cook Rd, Durham, NC","3 bds  2 ba  1,008 sqft",zillow.com/homedetails/708-Cook-Rd-Durham-NC-27713/49991035_zpid/
+Townhouse For Rent,"$1,200/mo",22 days ago,"1 Creekview Ln, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/1-Creekview-Ln-Durham-NC-27705/49993110_zpid/
+Apartment For Rent,"$1,230/mo",23 days ago,"718 Glen Hollow Dr, Durham, NC","2 bds  2 ba  1,140 sqft",zillow.com/homedetails/718-Glen-Hollow-Dr-Durham-NC-27705/2095066026_zpid/
+Townhouse For Rent,"$1,000/mo",26 days ago,"21 Forest Oaks Dr, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/21-Forest-Oaks-Dr-Durham-NC-27705/50015988_zpid/
+Apartment For Rent,"$1,258/mo",32 days ago,"811 9th Street # FL 5TH, Durham, NC",1 bd  1 ba  763 sqft,zillow.com/homedetails/811-9th-Street-FL-5TH-Durham-NC-27705/2095159696_zpid/
+House For Rent,"$1,300/mo",33 days ago,"6 York Ct, Durham, NC","3 bds  2 ba  1,400 sqft",zillow.com/homedetails/6-York-Ct-Durham-NC-27705/49985924_zpid/
+House For Rent,"$1,475/mo",37 days ago,"110 Newell St, Durham, NC","2 bds  1 ba  1,028 sqft",zillow.com/homedetails/110-Newell-St-Durham-NC-27705/49984666_zpid/
+House For Rent,"$1,050/mo",44 days ago,"Alabama Ave, Durham, NC","3 bds  1 ba  1,080 sqft",zillow.com/homedetails/Alabama-Ave-Durham-NC-27705/2095316474_zpid/
+Apartment For Rent,$600/mo,49 days ago,"1309 Hudson Ave, Durham, NC",1 bd  1 ba  617 sqft,zillow.com/homedetails/1309-Hudson-Ave-Durham-NC-27705/49970558_zpid/
+Condo For Rent,"$1,375/mo",22 days ago,"100 Stratford Lakes Dr UNIT 306, Durham, NC","3 bds  3.5 ba  1,600 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-306-Durham-NC-27713/2095060180_zpid/
+Condo For Rent,"$1,250/mo",22 days ago,"100 Stratford Lakes Dr UNIT 302, Durham, NC","2 bds  2.5 ba  1,245 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-302-Durham-NC-27713/2095060184_zpid/
+House For Rent,"$1,200/mo",26 days ago,"1343 Sedwick Rd, Durham, NC","3 bds  2 ba  1,654 sqft",zillow.com/homedetails/1343-Sedwick-Rd-Durham-NC-27713/50004150_zpid/
+House For Rent,"$1,375/mo",28 days ago,"107 Higher Learning Dr, Durham, NC","3 bds  2.5 ba  1,576 sqft",zillow.com/homedetails/107-Higher-Learning-Dr-Durham-NC-27713/59712540_zpid/
+House For Rent,"$1,295/mo",28 days ago,"4104 Brenmar Ln, Durham, NC","3 bds  2.5 ba  1,450 sqft",zillow.com/homedetails/4104-Brenmar-Ln-Durham-NC-27713/70922341_zpid/
+Townhouse For Rent,$950/mo,29 days ago,"1509 Clermont Rd, Durham, NC","2 bds  1.5 ba  1,100 sqft",zillow.com/homedetails/1509-Clermont-Rd-Durham-NC-27713/50003897_zpid/
+Townhouse For Rent,"$1,400/mo",36 days ago,"4202 Brenmar Ln, Durham, NC","3 bds  3 ba  1,445 sqft",zillow.com/homedetails/4202-Brenmar-Ln-Durham-NC-27713/61725729_zpid/
+Condo For Rent,"$1,375/mo",38 days ago,"100 Stratford Lakes Dr UNIT 106, Durham, NC","3 bds  3.5 ba  1,654 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-106-Durham-NC-27713/2115802657_zpid/
+Townhouse For Rent,$900/mo,49 days ago,"5500 Fortunes Ridge Dr APT 87A, Durham, NC","2 bds  2 ba  1,374 sqft",zillow.com/homedetails/5500-Fortunes-Ridge-Dr-APT-87A-Durham-NC-27713/50001452_zpid/
+Townhouse For Rent,$800/mo,52 days ago,"2639 Camellia Dr, Durham, NC",1 bd  1 ba  864 sqft,zillow.com/homedetails/2639-Camellia-Dr-Durham-NC-27705/50015200_zpid/
+Apartment For Rent,"$1,475/mo",64 days ago,"2211 W Knox St # B, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/2211-W-Knox-St-B-Durham-NC-27705/2107567816_zpid/
+House For Rent,"$1,350/mo",72 days ago,"2029 Walnut St, Durham, NC",3 bds  1 ba  975 sqft,zillow.com/homedetails/2029-Walnut-St-Durham-NC-27705/49984634_zpid/
+House For Rent,$950/mo,72 days ago,"1114 9th St, Durham, NC",2 bds  1 ba  880 sqft,zillow.com/homedetails/1114-9th-St-Durham-NC-27705/49966875_zpid/
+House For Rent,"$1,225/mo",55 days ago,"2608 Wyntercrest Ln, Durham, NC","2 bds  2.5 ba  1,545 sqft",zillow.com/homedetails/2608-Wyntercrest-Ln-Durham-NC-27713/80200520_zpid/
+House For Rent,"$1,275/mo",55 days ago,"18 Grosbeak Ln, Durham, NC","3 bds  2.5 ba  1,503 sqft",zillow.com/homedetails/18-Grosbeak-Ln-Durham-NC-27713/61725832_zpid/
+House For Rent,"$1,150/mo",27 days ago,"2309 Chautauqua Ave, Durham, NC","4 bds  1 ba  1,477 sqft",zillow.com/homedetails/2309-Chautauqua-Ave-Durham-NC-27707/49977881_zpid/
 House For Rent,"$1,250/mo",27 days ago,"1918 Cecil St, Durham, NC","3 bds  2 ba  2,016 sqft",zillow.com/homedetails/1918-Cecil-St-Durham-NC-27707/49977713_zpid/
 House For Rent,$875/mo,33 days ago,"2721 Atlantic St, Durham, NC",3 bds  1 ba  952 sqft,zillow.com/homedetails/2721-Atlantic-St-Durham-NC-27707/49978043_zpid/
-House For Rent,"$2,300/mo",40 days ago,"3903 Darby Rd, Durham, NC","4 bds  3.5 ba  3,082 sqft",zillow.com/homedetails/3903-Darby-Rd-Durham-NC-27707/49984071_zpid/
-House For Rent,"$1,800/mo",41 days ago,"Chapel Hill Rd, Durham, NC","3 bds  2 ba  2,768 sqft",zillow.com/homedetails/Chapel-Hill-Rd-Durham-NC-27707/2100085467_zpid/
 Apartment For Rent,$850/mo,41 days ago,"305 Bell St, Durham, NC",2 bds  1 ba  706 sqft,zillow.com/homedetails/305-Bell-St-Durham-NC-27707/49978707_zpid/
 House For Rent,"$1,195/mo",42 days ago,"1303 S Roxboro St, Durham, NC","3 bds  2 ba  1,143 sqft",zillow.com/homedetails/1303-S-Roxboro-St-Durham-NC-27707/49979573_zpid/
 Townhouse For Rent,$850/mo,42 days ago,"1727 Morehead Ave, Durham, NC","2 bds  1 ba  1,000 sqft",zillow.com/homedetails/1727-Morehead-Ave-Durham-NC-27707/2119727231_zpid/
 Townhouse For Rent,$845/mo,47 days ago,"515 Burlington Ave, Durham, NC",2 bds  1 ba  -- sqft,zillow.com/homedetails/515-Burlington-Ave-Durham-NC-27707/2095350153_zpid/
 House For Rent,"$1,025/mo",48 days ago,"2635 Chapel Hill Rd, Durham, NC",3 bds  1 ba  -- sqft,zillow.com/homedetails/2635-Chapel-Hill-Rd-Durham-NC-27707/49969720_zpid/
-House For Rent,"$3,000/mo",50 days ago,"2015 Wilshire Dr, Durham, NC","4 bds  2.5 ba  3,044 sqft",zillow.com/homedetails/2015-Wilshire-Dr-Durham-NC-27707/49977519_zpid/
-House For Rent,"$1,175/mo",50 days ago,"1320 Valley Run, Durham, NC","3 bds  2 ba  1,252 sqft",zillow.com/homedetails/1320-Valley-Run-Durham-NC-27707/49981970_zpid/
+House For Rent,"$1,175/mo",51 days ago,"1320 Valley Run, Durham, NC","3 bds  2 ba  1,252 sqft",zillow.com/homedetails/1320-Valley-Run-Durham-NC-27707/49981970_zpid/
 House For Rent,"$1,185/mo",55 days ago,"2408 Mcgehee St, Durham, NC","3 bds  2 ba  1,323 sqft",zillow.com/homedetails/2408-Mcgehee-St-Durham-NC-27707/49968679_zpid/
-House For Rent,"$1,650/mo",20 days ago,"539 Libson St, Durham, NC","4 bds  3 ba  2,000 sqft",zillow.com/homedetails/539-Libson-St-Durham-NC-27703/119253873_zpid/
-House For Rent,"$1,500/mo",113 days ago,"1601 Anderson St, Durham, NC","3 bds  2.5 ba  1,416 sqft",zillow.com/homedetails/1601-Anderson-St-Durham-NC-27707/49968662_zpid/
 House For Rent,"$1,400/mo",121 days ago,"401 Moline St, Durham, NC","4 bds  1 ba  1,296 sqft",zillow.com/homedetails/401-Moline-St-Durham-NC-27707/49978896_zpid/
-Townhouse For Rent,"$2,550/mo",144 days ago,"44 Grapevine Trl, Durham, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/44-Grapevine-Trl-Durham-NC-27707/70923057_zpid/
-House For Rent,"$1,600/mo",190 days ago,"2102 Meade Ln, Durham, NC",3 bds  2.5 ba  -- sqft,zillow.com/homedetails/2102-Meade-Ln-Durham-NC-27707/49971627_zpid/
-Townhouse For Rent,"$2,450/mo",420 days ago,"42 Grapevine Trl, Durham, NC","3 bds  2.5 ba  1,400 sqft",zillow.com/homedetails/42-Grapevine-Trl-Durham-NC-27707/70923188_zpid/
-Townhouse For Rent,"$2,550/mo",421 days ago,"56 Grapevine Trl, Durham, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/56-Grapevine-Trl-Durham-NC-27707/70922828_zpid/
-House For Rent,"$1,100/mo",21 days ago,"2408 Hart St, Durham, NC",3 bds  1 ba  960 sqft,zillow.com/homedetails/2408-Hart-St-Durham-NC-27703/49976513_zpid/
-Townhouse For Rent,"$1,580/mo",21 days ago,"533 Libson St, Durham, NC","3 bds  2.5 ba  1,680 sqft",zillow.com/homedetails/533-Libson-St-Durham-NC-27703/119253688_zpid/
-House For Rent,"$1,275/mo",21 days ago,"804 Hounds Chase Dr, Durham, NC","3 bds  2 ba  1,268 sqft",zillow.com/homedetails/804-Hounds-Chase-Dr-Durham-NC-27703/59713858_zpid/
-House For Rent,"$1,250/mo",21 days ago,"2504 Wedgedale Ave, Durham, NC","3 bds  2 ba  1,105 sqft",zillow.com/homedetails/2504-Wedgedale-Ave-Durham-NC-27703/49988778_zpid/
-House For Rent,"$1,300/mo",22 days ago,"211 Husketh Dr, Durham, NC","4 bds  2 ba  1,138 sqft",zillow.com/homedetails/211-Husketh-Dr-Durham-NC-27703/50011453_zpid/
-House For Rent,"$1,950/mo",23 days ago,"2228 Cedar Grove Dr, Durham, NC","3 bds  2.5 ba  2,894 sqft",zillow.com/homedetails/2228-Cedar-Grove-Dr-Durham-NC-27703/70592839_zpid/
-Apartment For Rent,$650/mo,25 days ago,"625 Middle St, Durham, NC",2 bds  1 ba  682 sqft,zillow.com/homedetails/625-Middle-St-Durham-NC-27703/49980014_zpid/
-Condo For Rent,"$1,295/mo",28 days ago,"650 Ganyard Farm Way UNIT 14, Durham, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/650-Ganyard-Farm-Way-UNIT-14-Durham-NC-27703/87750120_zpid/
-House For Rent,"$1,695/mo",29 days ago,"235 Lynchwick Ln, Durham, NC","3 bds  2.5 ba  1,739 sqft",zillow.com/homedetails/235-Lynchwick-Ln-Durham-NC-27703/122277622_zpid/
-House For Rent,"$1,000/mo",32 days ago,"511 Commonwealth St, Durham, NC","3 bds  1 ba  1,035 sqft",zillow.com/homedetails/511-Commonwealth-St-Durham-NC-27703/49988634_zpid/
-House For Rent,"$1,195/mo",22 days ago,"3303 Coachmans Way, Durham, NC","2 bds  2.5 ba  1,276 sqft",zillow.com/homedetails/3303-Coachmans-Way-Durham-NC-27705/49993278_zpid/
-Townhouse For Rent,"$1,350/mo",32 days ago,"304 N Driver St # B, Durham, NC","4 bds  2 ba  1,458 sqft",zillow.com/homedetails/304-N-Driver-St-B-Durham-NC-27703/2095165561_zpid/
-House For Rent,"$1,650/mo",34 days ago,"146 Finsbury St, Durham, NC","3 bds  3.5 ba  1,786 sqft",zillow.com/homedetails/146-Finsbury-St-Durham-NC-27703/87754140_zpid/
-Apartment For Rent,$750/mo,34 days ago,"1201 Eva St, Durham, NC",2 bds  1 ba  850 sqft,zillow.com/homedetails/1201-Eva-St-Durham-NC-27703/49975509_zpid/
-House For Rent,"$1,195/mo",35 days ago,"6 Redear Pl, Durham, NC","3 bds  2 ba  1,058 sqft",zillow.com/homedetails/6-Redear-Pl-Durham-NC-27703/50011928_zpid/
-House For Rent,"$1,000/mo",36 days ago,"Rochelle St, Durham, NC",3 bds  1 ba  -- sqft,zillow.com/homedetails/Rochelle-St-Durham-NC-27703/2098193654_zpid/
-House For Rent,"$1,595/mo",36 days ago,"7 Gwendolyn Cir, Durham, NC","3 bds  2.5 ba  1,783 sqft",zillow.com/homedetails/7-Gwendolyn-Cir-Durham-NC-27703/70923595_zpid/
-House For Rent,"$1,625/mo",37 days ago,"522 Libson St, Durham, NC","3 bds  2.5 ba  1,880 sqft",zillow.com/homedetails/522-Libson-St-Durham-NC-27703/119252795_zpid/
-House For Rent,"$1,795/mo",37 days ago,"221 Stoney Dr, Durham, NC","3 bds  2.5 ba  2,265 sqft",zillow.com/homedetails/221-Stoney-Dr-Durham-NC-27703/59713624_zpid/
-Townhouse For Rent,"$1,200/mo",44 days ago,"1725 Tw Alexander Dr UNIT 701, Durham, NC","3 bds  2.5 ba  1,485 sqft",zillow.com/homedetails/1725-Tw-Alexander-Dr-UNIT-701-Durham-NC-27703/2126156781_zpid/
-Townhouse For Rent,"$1,700/mo",45 days ago,"413 Avett Dr, Durham, NC","4 bds  3 ba  2,000 sqft",zillow.com/homedetails/413-Avett-Dr-Durham-NC-27703/119252660_zpid/
-Townhouse For Rent,"$1,200/mo",22 days ago,"1 Creekview Ln, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/1-Creekview-Ln-Durham-NC-27705/49993110_zpid/
-Apartment For Rent,"$1,230/mo",22 days ago,"718 Glen Hollow Dr, Durham, NC","2 bds  2 ba  1,140 sqft",zillow.com/homedetails/718-Glen-Hollow-Dr-Durham-NC-27705/2095066026_zpid/
-Townhouse For Rent,"$1,000/mo",26 days ago,"21 Forest Oaks Dr, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/21-Forest-Oaks-Dr-Durham-NC-27705/50015988_zpid/
-Apartment For Rent,"$2,350/mo",27 days ago,"1013 9th St # 1, Durham, NC","3 bds  3 ba  2,200 sqft",zillow.com/homedetails/1013-9th-St-1-Durham-NC-27705/2104436107_zpid/
-Apartment For Rent,"$1,258/mo",32 days ago,"811 9th Street # FL 5TH, Durham, NC",1 bd  1 ba  763 sqft,zillow.com/homedetails/811-9th-Street-FL-5TH-Durham-NC-27705/2095159696_zpid/
-House For Rent,"$1,300/mo",33 days ago,"6 York Ct, Durham, NC","3 bds  2 ba  1,400 sqft",zillow.com/homedetails/6-York-Ct-Durham-NC-27705/49985924_zpid/
-Townhouse For Rent,"$1,500/mo",33 days ago,"3208 Coachmans Way, Durham, NC","2 bds  2.5 ba  1,276 sqft",zillow.com/homedetails/3208-Coachmans-Way-Durham-NC-27705/49993213_zpid/
-House For Rent,"$1,475/mo",36 days ago,"110 Newell St, Durham, NC","2 bds  1 ba  1,028 sqft",zillow.com/homedetails/110-Newell-St-Durham-NC-27705/49984666_zpid/
-House For Rent,"$2,467/mo",40 days ago,"13 Virginia Dare Ct, Durham, NC","4 bds  3 ba  2,332 sqft",zillow.com/homedetails/13-Virginia-Dare-Ct-Durham-NC-27705/50016474_zpid/
-House For Rent,"$2,500/mo",42 days ago,"1006 Rees Ln, Durham, NC","5 bds  3.5 ba  3,530 sqft",zillow.com/homedetails/1006-Rees-Ln-Durham-NC-27705/60071571_zpid/
-Apartment For Rent,"$2,350/mo",43 days ago,"1012 9th St # B, Durham, NC","3 bds  3 ba  1,570 sqft",zillow.com/homedetails/1012-9th-St-B-Durham-NC-27705/2102818100_zpid/
-House For Rent,"$1,995/mo",48 days ago,"1104 San Antonio Blvd, Durham, NC","4 bds  2.5 ba  2,383 sqft",zillow.com/homedetails/1104-San-Antonio-Blvd-Durham-NC-27703/2095366958_zpid/
-House For Rent,"$2,100/mo",48 days ago,"136 Windrush Ln, Durham, NC","4 bds  2.5 ba  3,210 sqft",zillow.com/homedetails/136-Windrush-Ln-Durham-NC-27703/89700048_zpid/
-House For Rent,"$1,425/mo",50 days ago,"1006 Bengel Dr, Durham, NC","3 bds  2.5 ba  1,453 sqft",zillow.com/homedetails/1006-Bengel-Dr-Durham-NC-27703/80198916_zpid/
-House For Rent,"$1,525/mo",51 days ago,"526 Crossview Ln, Durham, NC","4 bds  2.5 ba  1,770 sqft",zillow.com/homedetails/526-Crossview-Ln-Durham-NC-27703/50011241_zpid/
 Townhouse For Rent,"$1,095/mo",62 days ago,"355 Kilarney Dr, Durham, NC","3 bds  1.5 ba  1,200 sqft",zillow.com/homedetails/355-Kilarney-Dr-Durham-NC-27703/49989586_zpid/
-House For Rent,"$1,050/mo",44 days ago,"Alabama Ave, Durham, NC","3 bds  1 ba  1,080 sqft",zillow.com/homedetails/Alabama-Ave-Durham-NC-27705/2095316474_zpid/
-Apartment For Rent,$600/mo,49 days ago,"1309 Hudson Ave, Durham, NC",1 bd  1 ba  617 sqft,zillow.com/homedetails/1309-Hudson-Ave-Durham-NC-27705/49970558_zpid/
-House For Rent,"$2,400/mo",49 days ago,"804 E Oak Dr, Durham, NC","4 bds  3 ba  2,420 sqft",zillow.com/homedetails/804-E-Oak-Dr-Durham-NC-27705/50017267_zpid/
-Townhouse For Rent,$800/mo,52 days ago,"2639 Camellia Dr, Durham, NC",1 bd  1 ba  864 sqft,zillow.com/homedetails/2639-Camellia-Dr-Durham-NC-27705/50015200_zpid/
-Apartment For Rent,"$1,475/mo",64 days ago,"2211 W Knox St # B, Durham, NC",2 bds  2 ba  -- sqft,zillow.com/homedetails/2211-W-Knox-St-B-Durham-NC-27705/2107567816_zpid/
-House For Rent,"$1,995/mo",71 days ago,"2112 W Club Blvd, Durham, NC","2 bds  1.5 ba  1,351 sqft",zillow.com/homedetails/2112-W-Club-Blvd-Durham-NC-27705/49967644_zpid/
-House For Rent,"$1,350/mo",71 days ago,"2029 Walnut St, Durham, NC",3 bds  1 ba  975 sqft,zillow.com/homedetails/2029-Walnut-St-Durham-NC-27705/49984634_zpid/
-House For Rent,$950/mo,71 days ago,"1114 9th St, Durham, NC",2 bds  1 ba  880 sqft,zillow.com/homedetails/1114-9th-St-Durham-NC-27705/49966875_zpid/
-Condo For Rent,"$1,250/mo",22 days ago,"100 Stratford Lakes Dr UNIT 302, Durham, NC","2 bds  2.5 ba  1,245 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-302-Durham-NC-27713/2095060184_zpid/
-Condo For Rent,"$1,375/mo",22 days ago,"100 Stratford Lakes Dr UNIT 306, Durham, NC","3 bds  3.5 ba  1,600 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-306-Durham-NC-27713/2095060180_zpid/
-House For Rent,"$2,000/mo",22 days ago,"8003 Crenshaw Ln, Durham, NC","3 bds  3.5 ba  2,160 sqft",zillow.com/homedetails/8003-Crenshaw-Ln-Durham-NC-27713/59711578_zpid/
-House For Rent,"$1,200/mo",26 days ago,"1343 Sedwick Rd, Durham, NC","3 bds  2 ba  1,654 sqft",zillow.com/homedetails/1343-Sedwick-Rd-Durham-NC-27713/50004150_zpid/
-House For Rent,"$1,375/mo",28 days ago,"107 Higher Learning Dr, Durham, NC","3 bds  2.5 ba  1,576 sqft",zillow.com/homedetails/107-Higher-Learning-Dr-Durham-NC-27713/59712540_zpid/
-House For Rent,"$1,295/mo",28 days ago,"4104 Brenmar Ln, Durham, NC","3 bds  2.5 ba  1,450 sqft",zillow.com/homedetails/4104-Brenmar-Ln-Durham-NC-27713/70922341_zpid/
-Townhouse For Rent,$950/mo,29 days ago,"1509 Clermont Rd, Durham, NC","2 bds  1.5 ba  1,100 sqft",zillow.com/homedetails/1509-Clermont-Rd-Durham-NC-27713/50003897_zpid/
-Townhouse For Rent,"$1,650/mo",30 days ago,"Pebble Creek Xing, Durham, NC","3 bds  2.5 ba  1,789 sqft",zillow.com/homedetails/Pebble-Creek-Xing-Durham-NC-27713/2095152950_zpid/
-House For Rent,"$1,500/mo",33 days ago,"5118 Carolwood Ln, Durham, NC","3 bds  2.5 ba  1,652 sqft",zillow.com/homedetails/5118-Carolwood-Ln-Durham-NC-27713/49999243_zpid/
-Townhouse For Rent,"$1,400/mo",36 days ago,"4202 Brenmar Ln, Durham, NC","3 bds  3 ba  1,445 sqft",zillow.com/homedetails/4202-Brenmar-Ln-Durham-NC-27713/61725729_zpid/
-Condo For Rent,"$1,375/mo",38 days ago,"100 Stratford Lakes Dr UNIT 106, Durham, NC","3 bds  3.5 ba  1,654 sqft",zillow.com/homedetails/100-Stratford-Lakes-Dr-UNIT-106-Durham-NC-27713/2115802657_zpid/
-House For Rent,"$1,600/mo",38 days ago,"5 Tippecanoe Ct, Durham, NC","3 bds  2.5 ba  1,789 sqft",zillow.com/homedetails/5-Tippecanoe-Ct-Durham-NC-27713/50000497_zpid/
-House For Rent,"$2,750/mo",41 days ago,"7702 Morrell Ln, Durham, NC","3 bds  2.5 ba  1,834 sqft",zillow.com/homedetails/7702-Morrell-Ln-Durham-NC-27713/70921501_zpid/
-House For Rent,"$1,695/mo",44 days ago,"6305 Coronado Ln, Durham, NC","4 bds  6 ba  2,216 sqft",zillow.com/homedetails/6305-Coronado-Ln-Durham-NC-27713/70592800_zpid/
-Townhouse For Rent,$900/mo,49 days ago,"5500 Fortunes Ridge Dr APT 87A, Durham, NC","2 bds  2 ba  1,374 sqft",zillow.com/homedetails/5500-Fortunes-Ridge-Dr-APT-87A-Durham-NC-27713/50001452_zpid/
-House For Rent,"$1,725/mo",53 days ago,"607 Hanson Rd, Durham, NC","4 bds  2.5 ba  1,890 sqft",zillow.com/homedetails/607-Hanson-Rd-Durham-NC-27713/70921208_zpid/
-House For Rent,"$1,695/mo",55 days ago,"112 Barrett Pl, Durham, NC","3 bds  2.5 ba  2,200 sqft",zillow.com/homedetails/112-Barrett-Pl-Durham-NC-27713/50002196_zpid/
-House For Rent,"$1,275/mo",55 days ago,"18 Grosbeak Ln, Durham, NC","3 bds  2.5 ba  1,503 sqft",zillow.com/homedetails/18-Grosbeak-Ln-Durham-NC-27713/61725832_zpid/
-House For Rent,"$1,225/mo",55 days ago,"2608 Wyntercrest Ln, Durham, NC","2 bds  2.5 ba  1,545 sqft",zillow.com/homedetails/2608-Wyntercrest-Ln-Durham-NC-27713/80200520_zpid/
-House For Rent,"$1,745/mo",62 days ago,"4 Water Garden Way, Durham, NC","3 bds  2.5 ba  1,780 sqft",zillow.com/homedetails/4-Water-Garden-Way-Durham-NC-27713/70921202_zpid/
-House For Rent,"$1,895/mo",47 days ago,"919 Crabtree Crossing Pkwy, Morrisville, NC","2 bds  2.5 ba  2,330 sqft",zillow.com/homedetails/919-Crabtree-Crossing-Pkwy-Morrisville-NC-27560/6556334_zpid/
-House For Rent,"$1,295/mo",50 days ago,"104 Apricot Cir, Morrisville, NC","3 bds  2.5 ba  1,684 sqft",zillow.com/homedetails/104-Apricot-Cir-Morrisville-NC-27560/65336199_zpid/
-Townhouse For Rent,"$1,500/mo",52 days ago,"520 Writers Way, Morrisville, NC","4 bds  3 ba  2,044 sqft",zillow.com/homedetails/520-Writers-Way-Morrisville-NC-27560/68320843_zpid/
-House For Rent,"$1,795/mo",54 days ago,"106 Judges Bench Ct, Morrisville, NC","4 bds  2.5 ba  2,074 sqft",zillow.com/homedetails/106-Judges-Bench-Ct-Morrisville-NC-27560/60533089_zpid/
-House For Rent,"$1,350/mo",55 days ago,"700 Walnut Woods Dr, Morrisville, NC","3 bds  2.5 ba  1,518 sqft",zillow.com/homedetails/700-Walnut-Woods-Dr-Morrisville-NC-27560/65339376_zpid/
-House For Rent,"$2,300/mo",56 days ago,"1505 Everette Fields Rd, Morrisville, NC","5 bds  3 ba  3,664 sqft",zillow.com/homedetails/1505-Everette-Fields-Rd-Morrisville-NC-27560/94724229_zpid/
-House For Rent,"$1,850/mo",69 days ago,"1156 Pemberly Ave, Morrisville, NC","4 bds  3.5 ba  2,329 sqft",zillow.com/homedetails/1156-Pemberly-Ave-Morrisville-NC-27560/124849843_zpid/
-House For Rent,"$1,765/mo",72 days ago,"11105 Jeremiah St, Morrisville, NC","3 bds  2.5 ba  1,800 sqft",zillow.com/homedetails/11105-Jeremiah-St-Morrisville-NC-27560/116220145_zpid/
-House For Rent,"$1,995/mo",75 days ago,"108 Hatchet Creek Ct, Morrisville, NC","4 bds  2.5 ba  2,772 sqft",zillow.com/homedetails/108-Hatchet-Creek-Ct-Morrisville-NC-27560/71845613_zpid/
-House For Rent,"$1,400/mo",78 days ago,"4011 Claret Ln, Morrisville, NC","3 bds  2 ba  1,463 sqft",zillow.com/homedetails/4011-Claret-Ln-Morrisville-NC-27560/2099825014_zpid/
-House For Rent,"$1,800/mo",92 days ago,"601 Crescendo Dr, Morrisville, NC","4 bds  2.5 ba  2,576 sqft",zillow.com/homedetails/601-Crescendo-Dr-Morrisville-NC-27560/60533431_zpid/
 Townhouse For Rent,$850/mo,69 days ago,"1505 Liberty St # C, Durham, NC","2 bds  2.5 ba  3,757 sqft",zillow.com/homedetails/1505-Liberty-St-C-Durham-NC-27703/2095638292_zpid/
-House For Rent,"$1,575/mo",76 days ago,"1905 Pear Tree Ln, Durham, NC","3 bds  3 ba  2,024 sqft",zillow.com/homedetails/1905-Pear-Tree-Ln-Durham-NC-27703/80207358_zpid/
+Townhouse For Rent,"$1,250/mo",92 days ago,"650 Ganyard Farm Way UNIT 25, Durham, NC","3 bds  3.5 ba  1,529 sqft",zillow.com/homedetails/650-Ganyard-Farm-Way-UNIT-25-Durham-NC-27703/89690378_zpid/
+Townhouse For Rent,"$1,400/mo",75 days ago,"4135 Brenmar Ln, Durham, NC","3 bds  2.5 ba  1,450 sqft",zillow.com/homedetails/4135-Brenmar-Ln-Durham-NC-27713/61725752_zpid/
+Apartment For Rent,"$1,150/mo",86 days ago,"311 Swift Ave APT 203, Durham, NC","2 bds  2 ba  1,100 sqft",zillow.com/homedetails/311-Swift-Ave-APT-203-Durham-NC-27705/49976001_zpid/
+House For Rent,"$1,490/mo",98 days ago,"4 Pinnacle Rd, Durham, NC","3 bds  3 ba  1,679 sqft",zillow.com/homedetails/4-Pinnacle-Rd-Durham-NC-27705/49993079_zpid/
+House For Rent,"$1,300/mo",85 days ago,"5531 Mccormick Rd, Durham, NC","3 bds  1.5 ba  1,244 sqft",zillow.com/homedetails/5531-Mccormick-Rd-Durham-NC-27713/50002949_zpid/
+Townhouse For Rent,"$1,150/mo",91 days ago,"102 Perriwinkle Pl, Durham, NC","3 bds  2 ba  1,356 sqft",zillow.com/homedetails/102-Perriwinkle-Pl-Durham-NC-27713/50003325_zpid/
+Townhouse For Rent,"$1,450/mo",148 days ago,"5500 Fortunes Ridge Dr APT 96C, Durham, NC","3 bds  2 ba  1,342 sqft",zillow.com/homedetails/5500-Fortunes-Ridge-Dr-APT-96C-Durham-NC-27713/50001446_zpid/
+House For Rent,"$1,295/mo",50 days ago,"104 Apricot Cir, Morrisville, NC","3 bds  2.5 ba  1,684 sqft",zillow.com/homedetails/104-Apricot-Cir-Morrisville-NC-27560/65336199_zpid/
+House For Rent,"$1,350/mo",55 days ago,"700 Walnut Woods Dr, Morrisville, NC","3 bds  2.5 ba  1,518 sqft",zillow.com/homedetails/700-Walnut-Woods-Dr-Morrisville-NC-27560/65339376_zpid/
+House For Rent,"$1,400/mo",78 days ago,"4011 Claret Ln, Morrisville, NC","3 bds  2 ba  1,463 sqft",zillow.com/homedetails/4011-Claret-Ln-Morrisville-NC-27560/2099825014_zpid/
 Apartment For Rent,"$1,475/mo",97 days ago,"119 Winifred Dr, Morrisville, NC","3 bds  2.5 ba  1,734 sqft",zillow.com/homedetails/119-Winifred-Dr-Morrisville-NC-27560/2095939316_zpid/
 House For Rent,"$1,400/mo",98 days ago,"307 Durston Loop, Morrisville, NC","3 bds  2.5 ba  1,632 sqft",zillow.com/homedetails/307-Durston-Loop-Morrisville-NC-27560/60533497_zpid/
 Townhouse For Rent,"$1,395/mo",101 days ago,"414 Misty Groves Cir, Morrisville, NC","3 bds  2.5 ba  1,503 sqft",zillow.com/homedetails/414-Misty-Groves-Cir-Morrisville-NC-27560/60533206_zpid/
-Apartment For Rent,"$1,600/mo",106 days ago,"103 Sterling Oaks Ct, Morrisville, NC","3 bds  2.5 ba  1,400 sqft",zillow.com/homedetails/103-Sterling-Oaks-Ct-Morrisville-NC-27560/60394573_zpid/
-Townhouse For Rent,"$1,350/mo",110 days ago,"107 Brentfield Loop, Morrisville, NC","3 bds  2.5 ba  1,632 sqft",zillow.com/homedetails/107-Brentfield-Loop-Morrisville-NC-27560/60533472_zpid/
+Townhouse For Rent,"$1,350/mo",111 days ago,"107 Brentfield Loop, Morrisville, NC","3 bds  2.5 ba  1,632 sqft",zillow.com/homedetails/107-Brentfield-Loop-Morrisville-NC-27560/60533472_zpid/
 Apartment For Rent,"$1,325/mo",111 days ago,"3221 Claret Ln # 3221, Morrisville, NC","2 bds  2 ba  1,268 sqft",zillow.com/homedetails/3221-Claret-Ln-3221-Morrisville-NC-27560/2096099954_zpid/
 House For Rent,"$1,325/mo",112 days ago,"3221 Claret Ln, Morrisville, NC","2 bds  2 ba  1,268 sqft",zillow.com/homedetails/3221-Claret-Ln-Morrisville-NC-27560/53461549_zpid/
-Townhouse For Rent,"$1,695/mo",139 days ago,"1000 Garden Square Ln, Morrisville, NC","4 bds  3 ba  2,174 sqft",zillow.com/homedetails/1000-Garden-Square-Ln-Morrisville-NC-27560/102360061_zpid/
-House For Rent,"$1,795/mo",158 days ago,"102 Powder Ridge Ct, Morrisville, NC","4 bds  2.5 ba  2,580 sqft",zillow.com/homedetails/102-Powder-Ridge-Ct-Morrisville-NC-27560/60394882_zpid/
-House For Rent,"$1,700/mo",173 days ago,"103 State House Dr, Morrisville, NC","4 bds  2.5 ba  2,200 sqft",zillow.com/homedetails/103-State-House-Dr-Morrisville-NC-27560/65343669_zpid/
-Townhouse For Rent,"$3,000/mo",176 days ago,"Mayo Forest Ln, Morrisville, NC","3 bds  2 ba  2,100 sqft",zillow.com/homedetails/Mayo-Forest-Ln-Morrisville-NC-27560/2096848587_zpid/
-Townhouse For Rent,"$1,250/mo",92 days ago,"650 Ganyard Farm Way UNIT 25, Durham, NC","3 bds  3.5 ba  1,529 sqft",zillow.com/homedetails/650-Ganyard-Farm-Way-UNIT-25-Durham-NC-27703/89690378_zpid/
-Townhouse For Rent,"$1,850/mo",97 days ago,"128 Torpoint Rd, Durham, NC","3 bds  2.5 ba  1,820 sqft",zillow.com/homedetails/128-Torpoint-Rd-Durham-NC-27703/2095936140_zpid/
-House For Rent,"$2,750/mo",421 days ago,"1906 Pear Tree Ln, Durham, NC","3 bds  2.5 ba  1,814 sqft",zillow.com/homedetails/1906-Pear-Tree-Ln-Durham-NC-27703/87750684_zpid/
-House For Rent,"$3,200/mo",294 days ago,"105 Ridge Creek Drive Httptriangleparagonrelscompa, Morrisville, NC",4 bds  3.5 ba  -- sqft,zillow.com/homedetails/105-Ridge-Creek-Drive-Httptriangleparagonrelscompa-Morrisville-NC-27560/2098324132_zpid/
-Apartment For Rent,"$1,150/mo",86 days ago,"311 Swift Ave APT 203, Durham, NC","2 bds  2 ba  1,100 sqft",zillow.com/homedetails/311-Swift-Ave-APT-203-Durham-NC-27705/49976001_zpid/
-House For Rent,"$1,490/mo",98 days ago,"4 Pinnacle Rd, Durham, NC","3 bds  3 ba  1,679 sqft",zillow.com/homedetails/4-Pinnacle-Rd-Durham-NC-27705/49993079_zpid/
-Condo For Rent,"$2,395/mo",117 days ago,"911 Rosehill Ave # B, Durham, NC",3 bds  3.5 ba  -- sqft,zillow.com/homedetails/911-Rosehill-Ave-B-Durham-NC-27705/2120714510_zpid/
-House For Rent,"$1,575/mo",190 days ago,"929 Morreene Rd, Durham, NC","3 bds  3 ba  1,372 sqft",zillow.com/homedetails/929-Morreene-Rd-Durham-NC-27705/61725434_zpid/
-House For Rent,"$2,750/mo",307 days ago,"1413 Alabama Ave, Durham, NC","3 bds  2.5 ba  1,600 sqft",zillow.com/homedetails/1413-Alabama-Ave-Durham-NC-27705/49968847_zpid/
-Townhouse For Rent,"$1,400/mo",75 days ago,"4135 Brenmar Ln, Durham, NC","3 bds  2.5 ba  1,450 sqft",zillow.com/homedetails/4135-Brenmar-Ln-Durham-NC-27713/61725752_zpid/
-House For Rent,"$1,300/mo",84 days ago,"5531 Mccormick Rd, Durham, NC","3 bds  1.5 ba  1,244 sqft",zillow.com/homedetails/5531-Mccormick-Rd-Durham-NC-27713/50002949_zpid/
-House For Rent,"$2,500/mo",90 days ago,"5 Lakehurst Ct, Durham, NC","4 bds  4 ba  3,046 sqft",zillow.com/homedetails/5-Lakehurst-Ct-Durham-NC-27713/59712840_zpid/
-Townhouse For Rent,"$1,150/mo",91 days ago,"102 Perriwinkle Pl, Durham, NC","3 bds  2 ba  1,356 sqft",zillow.com/homedetails/102-Perriwinkle-Pl-Durham-NC-27713/50003325_zpid/
-House For Rent,"$1,725/mo",136 days ago,"8 Rockwall Garden Way, Durham, NC","3 bds  2.5 ba  1,898 sqft",zillow.com/homedetails/8-Rockwall-Garden-Way-Durham-NC-27713/70923143_zpid/
-Townhouse For Rent,"$1,450/mo",148 days ago,"5500 Fortunes Ridge Dr APT 96C, Durham, NC","3 bds  2 ba  1,342 sqft",zillow.com/homedetails/5500-Fortunes-Ridge-Dr-APT-96C-Durham-NC-27713/50001446_zpid/
-Townhouse For Rent,"$2,350/mo",186 days ago,"5500 Fortunes Ridge Dr, Durham, NC","3 bds  2.5 ba  1,906 sqft",zillow.com/homedetails/5500-Fortunes-Ridge-Dr-Durham-NC-27713/50001354_zpid/
-House For Rent,"$2,650/mo",192 days ago,"5504 Grand Mesa Dr, Durham, NC","3 bds  2.5 ba  1,404 sqft",zillow.com/homedetails/5504-Grand-Mesa-Dr-Durham-NC-27713/59712116_zpid/
-Townhouse For Rent,"$2,350/mo",253 days ago,"1003 Crimson Dr, Durham, NC","3 bds  2.5 ba  1,500 sqft",zillow.com/homedetails/1003-Crimson-Dr-Durham-NC-27713/70923539_zpid/
-House For Rent,"$4,000/mo",283 days ago,"120 Crooked Creek Ln, Durham, NC","4 bds  3 ba  5,800 sqft",zillow.com/homedetails/120-Crooked-Creek-Ln-Durham-NC-27713/84509517_zpid/
-House For Rent,"$2,750/mo",293 days ago,"5502 Grand Mesa Dr, Durham, NC","4 bds  2.5 ba  1,984 sqft",zillow.com/homedetails/5502-Grand-Mesa-Dr-Durham-NC-27713/59712115_zpid/
-House For Rent,"$2,750/mo",303 days ago,"5 Cibola Ct, Durham, NC","4 bds  2.5 ba  1,980 sqft",zillow.com/homedetails/5-Cibola-Ct-Durham-NC-27713/59712135_zpid/
-Townhouse For Rent,"$1,950/mo",421 days ago,"2717 Wyntercrest Ln, Durham, NC","2 bds  2.5 ba  1,300 sqft",zillow.com/homedetails/2717-Wyntercrest-Ln-Durham-NC-27713/80204336_zpid/
