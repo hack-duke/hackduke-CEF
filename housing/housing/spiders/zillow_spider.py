@@ -1,14 +1,23 @@
 import scrapy
 from housing.items import HousingItem
+import urllib.request
+import json
 
-# https://www.youtube.com/watch?v=A4949-hT8TM
+# https://www.zipcodeapi.com/API for more info on zip api
 
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
 
 
     def start_requests(self):
-        zipcodes = ["27708", "27517", "27702", "27705", "27708", "27711", "27715", "27560", "27703", "27706", "27709", "27712", "27717", "27701", "27704", "27707", "27710", "27713"]    
+        api_key = "c9yS4jXsBsAMAIAcm4hYBaztIh4aFwZRGxJKRHds9OeJwPWTUdRvorZ7J3iozhff"
+        city = "Manhattan"
+        state = "NY"
+        url = "https://www.zipcodeapi.com/rest/" + api_key + "/city-zips.json/" + city + "/" + state
+        response = urllib.request.urlopen(url)
+        data = json.load(response)
+        zipcodes = data['zip_codes']
+
         urls = [ ]
 
         for code in zipcodes:
@@ -29,10 +38,18 @@ class ZillowSpider(scrapy.Spider):
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
                 item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
-                yield item
+                if int(removeCharacters(item['price'], ["$", ",", "/mo"])) < 100000:
+                    yield item
             except:
                 pass
         next_page = sel.xpath('//li[@class="zsg-pagination-next"]/a/@href').extract_first()
         if next_page is not None:
             next_page = "https://zillow.com" + next_page
             yield scrapy.Request(next_page, self.parse)
+
+def removeCharacters(string, removalList):
+    newstring = string
+    for item in removalList:
+        newstring = newstring.replace(item, '')
+    return newstring
+
