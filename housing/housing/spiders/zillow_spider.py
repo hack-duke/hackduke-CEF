@@ -12,13 +12,12 @@ class ZillowSpider(scrapy.Spider):
         urls = [ ]
 
         for code in zipcodes:
-            urls.append("https://www.zillow.com/homes/for_rent/" + code + "_rb/?fromHomePage=true&shouldFireSellPageImplicitClaimGA=false&fromHomePageTab=rent")
+            urls.append("https://www.zillow.com/homes/for_rent/" + code)
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        items = []
         for sel in response.xpath('//ul[@class="photo-cards"]/li'):
             try:
                 item = HousingItem()
@@ -30,7 +29,10 @@ class ZillowSpider(scrapy.Spider):
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
                 item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
-                items.append(item)
+                yield item
             except:
                 pass
-        return items
+        next_page = sel.xpath('//li[@class="zsg-pagination-next"]/a/@href').extract_first()
+        if next_page is not None:
+            next_page = "https://zillow.com" + next_page
+            yield scrapy.Request(next_page, self.parse)
