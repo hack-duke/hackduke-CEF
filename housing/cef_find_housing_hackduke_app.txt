@@ -1,0 +1,4 @@
+To find the directory
+
+find ./ -name "cef_find_housing_hackduke_app.txt"
+cd "$(dirname "$(!!)")"
