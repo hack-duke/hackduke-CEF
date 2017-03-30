@@ -17,13 +17,9 @@ csvwriter = csv.writer(house_data)
 newData = sorted(data, key=lambda k: int(k['pricePerMonth'])) 
 
 for i in range(len(newData)):
-    print("\n\n\n\n")
-    print(data[i])
-    print("\n\n\n\n")
     if i == 0:
         header = newData[0].keys()
         csvwriter.writerow(header)
-
     csvwriter.writerow(newData[i].values())
 
 house_data.close()
