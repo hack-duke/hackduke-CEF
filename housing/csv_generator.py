@@ -14,11 +14,16 @@ house_data = open(sys.argv[2], 'w')
 
 csvwriter = csv.writer(house_data)
 
-for i in range(len(data)):
+newData = sorted(data, key=lambda k: int(k['pricePerMonth'])) 
+
+for i in range(len(newData)):
+    print("\n\n\n\n")
+    print(data[i])
+    print("\n\n\n\n")
     if i == 0:
-        header = data[0].keys()
+        header = newData[0].keys()
         csvwriter.writerow(header)
 
-    csvwriter.writerow(data[i].values())
+    csvwriter.writerow(newData[i].values())
 
 house_data.close()

@@ -10,7 +10,7 @@ class ZillowSpider(scrapy.Spider):
 
     def __init__(self, city='Durham', state='NC', limit=100000000, *args, **kwargs):
         super(ZillowSpider, self).__init__(*args, **kwargs)
-        self.city = city
+        self.city = city.replace('-', ' ')
         self.state = state
         self.limit = int(limit)
 
@@ -37,14 +37,15 @@ class ZillowSpider(scrapy.Spider):
             try:
                 item = HousingItem()
                 item['classification'] = sel.xpath('.//span[@class="zsg-photo-card-status"]/text()').extract()[0]
-                item['price'] = sel.xpath('.//span[@class="zsg-photo-card-price"]/text()').extract()[0]
+                priceInfo = sel.xpath('.//span[@class="zsg-photo-card-price"]/text()').extract()[0]
+                item['pricePerMonth'] = removeCharacters(priceInfo, ["$", ",", "/mo"])
                 datePt1 = sel.xpath('.//span[@class="toz-count"]/text()').extract()[0]
                 datePt2 = sel.xpath('.//span[@class="zsg-photo-card-notification toz "]/text()').extract()[0]
                 item['dateListed'] = datePt1 + datePt2
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
                 item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
-                if int(removeCharacters(item['price'], ["$", ",", "/mo"])) < self.limit:
+                if int(item['pricePerMonth']) <= self.limit:
                     yield item
             except:
                 pass
