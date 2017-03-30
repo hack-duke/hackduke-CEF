@@ -8,11 +8,17 @@ import json
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
 
+    def __init__(self, city='Durham', state='NC', limit=100000000, *args, **kwargs):
+        super(ZillowSpider, self).__init__(*args, **kwargs)
+        self.city = city
+        self.state = state
+        self.limit = int(limit)
+
 
     def start_requests(self):
         api_key = "c9yS4jXsBsAMAIAcm4hYBaztIh4aFwZRGxJKRHds9OeJwPWTUdRvorZ7J3iozhff"
-        city = "Manhattan"
-        state = "NY"
+        city = self.city
+        state = self.state
         url = "https://www.zipcodeapi.com/rest/" + api_key + "/city-zips.json/" + city + "/" + state
         response = urllib.request.urlopen(url)
         data = json.load(response)
@@ -38,7 +44,7 @@ class ZillowSpider(scrapy.Spider):
                 item['address'] = sel.xpath('.//span[@class="zsg-photo-card-address"]/text()').extract()[0]
                 item['specs'] = ''.join(sel.xpath('.//span[@class="zsg-photo-card-info"]/text()').extract())
                 item['url'] = "zillow.com" + sel.xpath('.//a[@class="zsg-photo-card-overlay-link routable hdp-link routable mask hdp-link"]/@href').extract()[0]
-                if int(removeCharacters(item['price'], ["$", ",", "/mo"])) < 100000:
+                if int(removeCharacters(item['price'], ["$", ",", "/mo"])) < self.limit:
                     yield item
             except:
                 pass
