@@ -13,6 +13,7 @@ import javafx.stage.Stage;
 public class main extends Application {
 	private GridPane gridpane;
 	private Stage primaryStage;
+	private String city, state, limit;
 	private SystemCaller caller;
 	
     public static void main(String[] args) {
@@ -72,7 +73,7 @@ public class main extends Application {
     	        if ((comment.getText() != null && !comment.getText().isEmpty()) &&
     	        		name.getText() != null && !name.getText().isEmpty() && 
     	        		lastName.getText() != null && !lastName.getText().isEmpty()) {
-    	            label.setText("Processing, please wait");
+    	            label.setText("Please close this application");
     	            caller.call(name.getText(), lastName.getText(), comment.getText());
     	            primaryStage.close();
     	        } else {
