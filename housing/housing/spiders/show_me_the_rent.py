@@ -33,7 +33,6 @@ class ShowMeTheRentSpider(scrapy.Spider):
                 item['address'] = streetAddress + ', ' + city
                 item['url'] = 'www.showmetherent.com' + sel.xpath('.//div[@class="c2 listing-name"]/h2/a/@href').extract_first()
                 if int(item['pricePerMonth']) <= self.limit:
-                    print(item['pricePerMonth'])
                     yield item
             except:
                 pass
