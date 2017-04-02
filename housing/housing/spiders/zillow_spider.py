@@ -10,7 +10,7 @@ class ZillowSpider(scrapy.Spider):
 
     def __init__(self, city='Durham', state='NC', limit=100000000, *args, **kwargs):
         super(ZillowSpider, self).__init__(*args, **kwargs)
-        self.city = city.replace('-', ' ')
+        self.city = city.replace('_', ' ')
         self.state = state
         self.limit = int(limit)
 
