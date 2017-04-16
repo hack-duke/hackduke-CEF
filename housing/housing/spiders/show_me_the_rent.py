@@ -8,13 +8,13 @@ import json
 class ShowMeTheRentSpider(scrapy.Spider):
     name = "show_me_the_rent"
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, limit=1200, *args, **kwargs):
         super(ShowMeTheRentSpider, self).__init__(*args, **kwargs)
-        self.limit = 20000
+        self.limit = limit
 
     def start_requests(self):
-        zipcode = '10024'
-        urls = ['https://www.showmetherent.com/listings/' + zipcode]
+        cities = ['Durham', 'Raleigh', 'ChapelHill']
+        urls = ['https://www.showmetherent.com/listings/' + c for c in cities]
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)

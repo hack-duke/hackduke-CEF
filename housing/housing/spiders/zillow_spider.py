@@ -8,11 +8,11 @@ import json
 class ZillowSpider(scrapy.Spider):
     name = "zillow"
 
-    def __init__(self, city='Durham', state='NC', limit=100000000, *args, **kwargs):
+    def __init__(self, city='Durham', state='NC', limit=1200, *args, **kwargs):
         super(ZillowSpider, self).__init__(*args, **kwargs)
         self.city = city.replace('_', ' ')
         self.state = state
-        self.limit = int(limit)
+        self.limit = limit
 
 
     def start_requests(self):
@@ -26,8 +26,11 @@ class ZillowSpider(scrapy.Spider):
 
         urls = [ ]
 
-        for code in zipcodes:
-            urls.append("https://www.zillow.com/homes/for_rent/" + code)
+        cities = ['Durham', 'Raleigh', 'ChapelHill']
+        urls = ["https://www.zillow.com/homes/for_rent/" + c for c in cities]
+
+        # for code in zipcodes:
+        #     urls.append("https://www.zillow.com/homes/for_rent/" + code)
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)

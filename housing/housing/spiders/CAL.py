@@ -8,14 +8,13 @@ import json
 class CheapApartmentsLocatorSpider(scrapy.Spider):
     name = "CAL"
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, limit=1200, *args, **kwargs):
         super(CheapApartmentsLocatorSpider, self).__init__(*args, **kwargs)
-        self.limit = 20000
-        self.num = 0
+        self.limit = limit
 
     def start_requests(self):
-        city = 'durham'
-        urls = ['http://www.cheapapartmentslocator.com/cheap-apartments-in-' + city + '/']
+        cities = ['Durham', 'Raleigh', 'ChapelHill']
+        urls = ['http://www.cheapapartmentslocator.com/cheap-apartments-in-' + city + '/' for city in cities]
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -36,7 +35,6 @@ class CheapApartmentsLocatorSpider(scrapy.Spider):
                 if item['url'] is None:
                     item['url'] = response.url
                 if int(item['pricePerMonth']) <= self.limit:
-                    self.num = self.num + 1
                     yield item
             except:
                 pass
