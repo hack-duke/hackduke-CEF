@@ -31,7 +31,7 @@ var $$ = function(id) {
     startCols: 6,
     dataSchema: {address: null, classification: null, dateListed: null, pricePerMonth: null, specs: null},
     rowHeaders: true,
-    colHeaders: ['address', 'classification', 'dateListed', 'pricePerMonth', 'specs'],
+    colHeaders: ['Address', 'Classification', 'Date Listed', 'Price Per Month', 'Specs'],
     columns: [
       {data: 'address'},
       {data: 'classification'},
