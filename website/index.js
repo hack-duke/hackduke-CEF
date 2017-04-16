@@ -1,4 +1,4 @@
-var PythonShell = require('python-shell');
+// var PythonShell = require('python-shell');
 
 var $$ = function(id) {
       return document.getElementById(id);
