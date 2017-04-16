@@ -58,40 +58,6 @@ var $$ = function(id) {
     }
   });
 
-  Handsontable.Dom.addEvent(load, 'click', function() {
-    console.log("clicked load")
-    // $.ajax('json/load.json', 'GET', '', function(res, err) {
-    //   console.log("ajax start")
-    //   var data = JSON.parse(res.response);
-    //   console.log("1", data)
-    //   console.log("2", data.data)
-    //   hot.loadData(data);
-    //   exampleConsole.innerText = 'Data loaded';
-    // });
-    $.ajax({
-          type: 'GET',
-           url: 'json/load.json',
-           async: false,
-           contentType: "application/json",
-           dataType: 'json',
-           success: function(res) {
-             console.log(res);
-             var data = res;
-             console.log(data);
-             hot.loadData(data);
-             exampleConsole.innerText = 'Data loaded';
-          },
-           error: function(e) {
-              console.log(e.message);
-              // console.log(JSON.parse(e.responseText)[0]['address'])
-              // var data = JSON.parse(e.responseText)[0]
-              //console.log(data)
-              // hot.loadData(data);
-              // exampleConsole.innerText = 'Data loaded';
-           }
-          })
-  });
-
   Handsontable.Dom.addEvent(save, 'click', function() {
     // save all cell's data
     console.log("clicked save")
@@ -115,3 +81,30 @@ var $$ = function(id) {
       exampleConsole.innerText ='Changes will not be autosaved';
     }
   });
+  var updateJSON = function() {
+      // $.ajax('json/load.json', 'GET', '', function(res, err) {
+      //   console.log("ajax start")
+      //   var data = JSON.parse(res.response);
+      //   console.log("1", data)
+      //   console.log("2", data.data)
+      //   hot.loadData(data);
+      //   exampleConsole.innerText = 'Data loaded';
+      // });
+      $.ajax({
+            type: 'GET',
+             url: 'json/load.json',
+             async: false,
+             contentType: "application/json",
+             dataType: 'json',
+             success: function(res) {
+               console.log(res);
+               var data = res;
+               console.log(data);
+               hot.loadData(data);
+               exampleConsole.innerText = 'Data loaded';
+            },
+             error: function(e) {
+                console.log(e.message);
+             }
+            })
+  }
