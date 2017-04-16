@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf8">
+    <title>CEF Website</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="handsontable.full.css">
+  </head>
+  <body>
+    <h1>CEF Website</h1>
+    <h2>Handsontable Basic Example (100x10)</h2>
+    <div class="ajax-container">
+      <div class="controls">
+        <button name="load" id="load" class="intext-btn">Load</button>
+        <button name="save" id="save" class="intext-btn">Save</button>
+        <label><input type="checkbox" name="autosave" id="autosave" checked="checked" autocomplete="off">Autosave</label>
+      </div>
+      <pre id="example1console" class="console">Click "Load" to load data from server</pre>
+      <div id="example" class="hot"></div>
+    </div>
+    <script src="handsontable.full.js"></script>
+    <script src="index.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+</html>
