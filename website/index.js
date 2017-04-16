@@ -1,19 +1,4 @@
-// var handsontable = require('handsontable');
-// var data = function () {
-//   return Handsontable.helper.createSpreadsheetData(100, 10);
-// };
-//
-// var container = document.getElementById('example');
-//
-// var hot = new Handsontable(container, {
-//   data: data(),
-//   minSpareCols: 1,
-//   minSpareRows: 1,
-//   rowHeaders: true,
-//   colHeaders: true,
-//   contextMenu: true,
-//   readOnly: true
-// });
+// var PythonShell = require('python-shell');
 
 var $$ = function(id) {
       return document.getElementById(id);
@@ -61,15 +46,19 @@ var $$ = function(id) {
   Handsontable.Dom.addEvent(save, 'click', function() {
     // save all cell's data
     console.log("clicked save")
-    $.ajax('json/save.json', 'GET', JSON.stringify({data: hot.getData()}), function (res) {
-      var response = JSON.parse(res.response);
-
-      if (response.result === 'ok') {
-        exampleConsole.innerText = 'Data saved';
-      }
-      else {
-        exampleConsole.innerText = 'Save error';
-      }
+    // $.ajax('json/save.json', 'GET', JSON.stringify({data: hot.getData()}), function (res) {
+    //   var response = JSON.parse(res.response);
+    //
+    //   if (response.result === 'ok') {
+    //     exampleConsole.innerText = 'Data saved';
+    //   }
+    //   else {
+    //     exampleConsole.innerText = 'Save error';
+    //   }
+    // });
+    PythonShell.run('../housing/MultiCrawler.py', function (err) {
+    if (err) throw err;
+    console.log('finished');
     });
   });
 
@@ -81,15 +70,8 @@ var $$ = function(id) {
       exampleConsole.innerText ='Changes will not be autosaved';
     }
   });
+
   var updateJSON = function() {
-      // $.ajax('json/load.json', 'GET', '', function(res, err) {
-      //   console.log("ajax start")
-      //   var data = JSON.parse(res.response);
-      //   console.log("1", data)
-      //   console.log("2", data.data)
-      //   hot.loadData(data);
-      //   exampleConsole.innerText = 'Data loaded';
-      // });
       $.ajax({
             type: 'GET',
              url: 'json/load.json',
