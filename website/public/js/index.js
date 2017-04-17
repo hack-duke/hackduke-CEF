@@ -1,4 +1,5 @@
-// var PythonShell = require('python-shell');
+//var PythonShell = require('python-shell');
+var $ = require("jquery")(window);
 
 var $$ = function(id) {
       return document.getElementById(id);
