@@ -1,5 +1,10 @@
-//var PythonShell = require('python-shell');
-
+var PythonShell = require('python-shell');
+var options = {
+  mode: 'text',
+  // pythonPath: 'path/to/python',
+  pythonOptions: ['-u'],
+  scriptPath: '../../../housing/housing'
+};
 var $$ = function(id) {
       return document.getElementById(id);
     },
@@ -43,24 +48,15 @@ var $$ = function(id) {
     }
   });
 
-  Handsontable.Dom.addEvent(save, 'click', function() {
-    // save all cell's data
-    console.log("clicked save")
-    // $.ajax('json/save.json', 'GET', JSON.stringify({data: hot.getData()}), function (res) {
-    //   var response = JSON.parse(res.response);
-    //
-    //   if (response.result === 'ok') {
-    //     exampleConsole.innerText = 'Data saved';
-    //   }
-    //   else {
-    //     exampleConsole.innerText = 'Save error';
-    //   }
-    // });
-    PythonShell.run('../housing/MultiCrawler.py', function (err) {
-    if (err) throw err;
-    console.log('finished');
-    });
-  });
+  // Handsontable.Dom.addEvent(save, 'click', function() {
+  //   // run python script
+  //   console.log("clicked run")
+  //   PythonShell.run('MultiCrawler.py', options,  function (err, results) {
+  //   console.log('run script')
+  //   if (err) throw err;
+  //   console.log('results: %j', results);
+  //   });
+  // });
 
   Handsontable.Dom.addEvent(autosave, 'click', function() {
     if (autosave.checked) {
@@ -79,9 +75,9 @@ var $$ = function(id) {
              contentType: "application/json",
              dataType: 'json',
              success: function(res) {
-               console.log(res);
+               //console.log(res);
                var data = res;
-               console.log(data);
+               //console.log(data);
                hot.loadData(data);
                exampleConsole.innerText = 'Data loaded';
             },
@@ -89,6 +85,15 @@ var $$ = function(id) {
                 console.log(e.message);
              }
             })
+  }
+
+  var runPython = function(){
+    console.log("clicked run")
+    PythonShell.run('MultiCrawler.py', options,  function (err, results) {
+    console.log('run script')
+    if (err) throw err;
+    console.log('results: %j', results);
+    });
   }
 
   // Shorthand for $( document ).ready()
