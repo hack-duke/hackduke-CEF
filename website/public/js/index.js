@@ -1,5 +1,4 @@
 //var PythonShell = require('python-shell');
-var $ = require("jquery")(window);
 
 var $$ = function(id) {
       return document.getElementById(id);
@@ -91,3 +90,8 @@ var $$ = function(id) {
              }
             })
   }
+
+  // Shorthand for $( document ).ready()
+  $(document).ready(function() {
+      updateJSON();
+  });
