@@ -253,9 +253,11 @@ var PythonShell = require('python-shell');
 var options = {
   mode: 'text',
   // pythonPath: 'path/to/python',
-  pythonOptions: ['-u'],
-  scriptPath: '../../../housing/housing'
+  // pythonOptions: ['-u'],
+  scriptPath: '/Users/snggeng/dev/hackduke-CEF/housing'
 };
+var spawn = require('child_process').spawn;
+// var pyShell = new PythonShell('MultiCrawler.py',options);
 var $$ = function(id) {
       return document.getElementById(id);
     },
@@ -299,15 +301,15 @@ var $$ = function(id) {
     }
   });
 
-  Handsontable.Dom.addEvent(save, 'click', function() {
-    // run python script
-    console.log("clicked run")
-    PythonShell.run('MultiCrawler.py', options,  function (err, results) {
-    console.log('run script')
-    if (err) throw err;
-    console.log('results: %j', results);
-    });
-  });
+  // Handsontable.Dom.addEvent(save, 'click', function() {
+  //   // run python script
+  //   console.log("clicked run")
+  //   PythonShell.run('MultiCrawler.py', options,  function (err, results) {
+  //   console.log('run script')
+  //   if (err) throw err;
+  //   console.log('results: %j', results);
+  //   });
+  // });
 
   Handsontable.Dom.addEvent(autosave, 'click', function() {
     if (autosave.checked) {
@@ -338,12 +340,24 @@ var $$ = function(id) {
             })
   }
 
+  var runPython = function(){
+    console.log("clicked run")
+    PythonShell.run('MultiCrawler.py', options,  function (err, results) {
+    console.log('run script')
+    if (err) throw err;
+    console.log('results: %j', results);
+    });
+  }
+
   // Shorthand for $( document ).ready()
   $(document).ready(function() {
       updateJSON();
+      $( "#save" ).click(function() {
+        runPython();
+      });
   });
 
-},{"python-shell":1}],3:[function(require,module,exports){
+},{"child_process":3,"python-shell":1}],3:[function(require,module,exports){
 
 },{}],4:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.

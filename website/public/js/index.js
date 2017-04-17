@@ -2,9 +2,10 @@ var PythonShell = require('python-shell');
 var options = {
   mode: 'text',
   // pythonPath: 'path/to/python',
-  pythonOptions: ['-u'],
-  scriptPath: '../../../housing/housing'
+  // pythonOptions: ['-u'],
+  scriptPath: '/Users/snggeng/dev/hackduke-CEF/housing'
 };
+// var pyShell = new PythonShell('MultiCrawler.py',options);
 var $$ = function(id) {
       return document.getElementById(id);
     },
@@ -99,4 +100,7 @@ var $$ = function(id) {
   // Shorthand for $( document ).ready()
   $(document).ready(function() {
       updateJSON();
+      $( "#save" ).click(function() {
+        runPython();
+      });
   });
