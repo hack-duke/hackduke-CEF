@@ -252,11 +252,11 @@ module.exports = PythonShell;
 var PythonShell = require('python-shell');
 var options = {
   mode: 'text',
-  // pythonPath: 'path/to/python',
-  // pythonOptions: ['-u'],
-  scriptPath: '/Users/snggeng/dev/hackduke-CEF/housing'
+  pythonPath: '/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6',
+  pythonOptions: ['-u'],
+  scriptPath: '/Users/snggeng/dev/hackduke-CEF/housing',
+  args: []
 };
-var spawn = require('child_process').spawn;
 // var pyShell = new PythonShell('MultiCrawler.py',options);
 var $$ = function(id) {
       return document.getElementById(id);
@@ -341,12 +341,23 @@ var $$ = function(id) {
   }
 
   var runPython = function(){
-    console.log("clicked run")
+    console.log("clicked run", options.scriptPath)
     PythonShell.run('MultiCrawler.py', options,  function (err, results) {
     console.log('run script')
-    if (err) throw err;
+    if (err) throw err.stack;
     console.log('results: %j', results);
     });
+    // var spawn = require('child_process').spawn,
+    // py = spawn('python', ['MultiCrawler.py'])
+    //
+    // py.stdout.on('data', function(data){
+    //   dataString += data.toString();
+    // });
+    // py.stdout.on('end', function(){
+    //   console.log('Sum of numbers=',dataString);
+    // });
+    // py.stdin.write(JSON.stringify(data));
+    // py.stdin.end();
   }
 
   // Shorthand for $( document ).ready()
@@ -357,7 +368,7 @@ var $$ = function(id) {
       });
   });
 
-},{"child_process":3,"python-shell":1}],3:[function(require,module,exports){
+},{"python-shell":1}],3:[function(require,module,exports){
 
 },{}],4:[function(require,module,exports){
 // Copyright Joyent, Inc. and other Node contributors.
