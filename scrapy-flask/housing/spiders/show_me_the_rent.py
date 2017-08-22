@@ -8,9 +8,8 @@ import json
 class ShowMeTheRentSpider(scrapy.Spider):
     name = "show_me_the_rent"
 
-    def __init__(self, limit=1200, *args, **kwargs):
+    def __init__(self, *args, **kwargs):
         super(ShowMeTheRentSpider, self).__init__(*args, **kwargs)
-        self.limit = limit
 
     def start_requests(self):
         cities = ['Durham', 'Raleigh', 'ChapelHill']
@@ -32,8 +31,7 @@ class ShowMeTheRentSpider(scrapy.Spider):
                 city = trimSlashes(sel.xpath('.//div[@class="c2 listing-name"]/h3/text()').extract_first())
                 item['address'] = streetAddress + ', ' + city
                 item['url'] = 'www.showmetherent.com' + sel.xpath('.//div[@class="c2 listing-name"]/h2/a/@href').extract_first()
-                if int(item['pricePerMonth']) <= self.limit:
-                    yield item
+                yield item
             except:
                 pass
 

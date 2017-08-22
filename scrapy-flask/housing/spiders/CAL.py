@@ -8,9 +8,8 @@ import json
 class CheapApartmentsLocatorSpider(scrapy.Spider):
     name = "CAL"
 
-    def __init__(self, limit=1200, *args, **kwargs):
+    def __init__(self, *args, **kwargs):
         super(CheapApartmentsLocatorSpider, self).__init__(*args, **kwargs)
-        self.limit = limit
 
     def start_requests(self):
         cities = ['Durham', 'Raleigh', 'ChapelHill']
@@ -34,8 +33,7 @@ class CheapApartmentsLocatorSpider(scrapy.Spider):
                 item['url'] = sel.xpath('.//h2/a[@class="apartmentName  external"]/@href').extract_first()
                 if item['url'] is None:
                     item['url'] = response.url
-                if int(item['pricePerMonth']) <= self.limit:
-                    yield item
+                yield item
             except:
                 pass
 
