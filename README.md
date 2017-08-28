@@ -1,44 +1,19 @@
 # HousingScraper
 
-## Dependencies
+## Demo
 
-### Python Requests
+Download the .mov of the demo here <img src="lib/Demo.mov" alt="Housing GUI Demo" width="40%" height="40%">
 
-Python Requests: $ pip3 install requests
+## Origins of Project
 
-**For more information**: http://docs.python-requests.org/en/master/user/install/#install
+This project was started after [Durham Community Engagement Fund (CEF)](https://communityempowermentfund.org/) reached out to HackDuke to have their housing data generation automated. Following their request, meetings were scheduled and carried out, web scrapers were built, and a destop application was made.
 
-### Beautiful Soup 4
+## How It Was Built
 
-Beautiful Soup: $ pip3 install BeautifulSoup4
+All of the web scraping was done using [Scrapy](https://scrapy.org/), a python web scraping library. "Spiders", or site specific scapers were built for [Zillow](https://www.zillow.com/), [ShowMeTheRent](https://www.showmetherent.com/), and [CheapApartmentsLocator](http://www.cheapapartmentslocator.com/) via the request of the CEF.
 
-**For more information**: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
+The desktop app was built in Java using JavaFX and it made all of the scraped data avaliable to the user. Queries could be put into the desktop app after specifying the City, State, and price limit. The spiders re-ran everytime a new query was put in. 
 
-### Scrapy
+## Future Steps
 
-Scrapy: $ pip3 install scrapy
-
-## To Run Scrapy
-
-cd into the top housing directory
-
-then say: **scrapy crawl zillow -o file_name.json**
-
-then json should then appear (if it didn't exist) in the zillow folder
-
-if the json did exist, it adds to it
-
-## Using the JSON to csv converter (csv_generator):
-
-call the following from terminal:
-
-**python3 csv_generator.py loc/json_file.json loc/csv_file_to_generate.csv**
-
-
-## Useful links for first time scrapers
-
-https://elitedatascience.com/python-web-scraping-libraries
-
-https://www.youtube.com/watch?v=3xQTJi2tqgk
-
-Good scrapy tutorial if interested: https://www.youtube.com/watch?v=A4949-hT8TM
+Set up a web application which re-runs the Durham scraper every 30 minutes. The web app would allow for users to specify their price range and see the results. There are some web app frameworks and libraries which have built in GET request functionalities in place for Scrapy spiders. For example [Arachne](http://arachne.readthedocs.io/en/latest/) can be used to run spiders on a Flask app. Our Flask app is already written, Arachne just needs to be integrated.
